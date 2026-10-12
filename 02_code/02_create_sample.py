@@ -14,16 +14,13 @@ RANDOM_SEED = 42
 def main():
     # ==========================================================================
     # PATH CONFIGURATION
-
-    # OPTION A: Command Line Execution (Default)
-    # Use this when running: uv run python 02_code/02_create_sample.py
-    # script_dir = os.path.dirname(os.path.abspath(__file__))
-    # project_root = os.path.dirname(script_dir)
-    
-    # OPTION B: Jupyter Notebook / Interactive Environment
-    # Uncomment the line below and comment out OPTION A if you get:
-    # "NameError: name '__file__' is not defined"
-    project_root = r"C:\Users\lucaa\OneDrive\Projects\grocery-store" # Replace with your own path :)
+    # ==========================================================================
+    try:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        project_root = os.path.dirname(script_dir)
+    except NameError:
+        # Interactive / Jupyter environment: assume cwd is the 02_code/ directory
+        project_root = os.path.abspath(os.path.join(os.getcwd(), ".."))
     # ==========================================================================
     
     input_file = os.path.join(project_root, "03_output", "california_food_retail_full.parquet")

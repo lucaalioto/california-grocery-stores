@@ -16,16 +16,13 @@ def main():
     
     # ==========================================================================
     # PATH CONFIGURATION (if only I could library(here))
-  
-    # OPTION A: Command Line Execution (Default)
-    # Use this when running: uv run python 02_code/01_fetch_overture.py
-    # script_dir = os.path.dirname(os.path.abspath(__file__))
-    # project_root = os.path.dirname(script_dir)
-    
-    # OPTION B: Jupyter Notebook / Interactive Environment
-    # Uncomment the line below and comment out OPTION A if you get:
-    # "NameError: name '__file__' is not defined"
-    project_root = r"C:\Users\lucaa\OneDrive\Projects\grocery-store" # Replace with your own path :) 
+    # ==========================================================================
+    try:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        project_root = os.path.dirname(script_dir)
+    except NameError:
+        # Interactive / Jupyter environment: assume cwd is the 02_code/ directory
+        project_root = os.path.abspath(os.path.join(os.getcwd(), ".."))
     # ==========================================================================
     
     output_dir = os.path.join(project_root, "03_output")
@@ -38,14 +35,18 @@ def main():
     output_dta = os.path.join(output_dir, "california_food_retail_full.dta")
 
     # --- 2. Get Overture Release ---
-    try: 
-        release = leafmap.get_overture_latest_release()
-    except: 
-        release = "2024-11-13.0"
+    # Pinned so outputs are reproducible. Overture only keeps the last few releases
+    # on S3 and deletes older ones, so if this release 404s, bump it to a current one
+    # (see https://docs.overturemaps.org/release/latest/) and re-run scripts 01-03.
+    release = "2026-09-23.1"
 
-    # Not sure why, but the pull is giving me 2025-12-17 when online the current version is 2025-12-17.0
-    release = "2025-12-17.0"
-    
+    try:
+        latest = leafmap.get_overture_latest_release()
+        if latest and not str(latest).startswith(release):
+            print(f"Note: leafmap reports a newer Overture release ({latest}); using pinned {release}.")
+    except Exception as e:
+        print(f"Could not check latest Overture release: {e}")
+
     url = f"s3://overturemaps-us-west-2/release/{release}/theme=places/type=place/*.parquet"
     print(f"Fetching Overture Data for California ({release})...")
 
@@ -102,8 +103,9 @@ def main():
     df_stata = df.copy()
     
     # Convert list column to string for Stata compatibility
+    # (values may be lists or numpy arrays depending on the DuckDB version, so check for None)
     df_stata['alternate_categories'] = df_stata['alternate_categories'].apply(
-        lambda x: '|'.join(x) if isinstance(x, list) else ''
+        lambda x: '|'.join(x) if x is not None else ''
     )
     
     # Truncate column names if needed (Stata 32 char limit)
