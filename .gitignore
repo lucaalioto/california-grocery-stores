@@ -64,3 +64,7 @@ htmlcov/
 
 # mypy
 .mypy_cache/
+
+# OpenStreetMap extracts (about 1 GB; re-download with 02_code/01c_fetch_osm.py)
+01_data/osm/*.pbf
+01_data/osm/*.mapdb*

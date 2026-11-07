@@ -1,0 +1,366 @@
+id,name,address,category,alternate_categories,brand_name,brand_wikidata,website,phone,source_count,latitude,longitude
+dada5aec-db87-407f-b9b9-5bbc697d7531,Indian Cash and Carry,3150 Macon Dr,grocery_store,['specialty_grocery_store' 'supermarket'],,,http://indiancashandcarry.com,+19165158897,2,38.679771,-121.5310242
+8f88fb23-23d2-4e92-87a7-c049b45d8ffa,Food 4 Less,430 Elkhorn Blvd,grocery_store,['supermarket' 'bakery'],Food 4 Less,,http://www.foodsource.net/,+19169911435,2,38.6827675,-121.4554797
+5dec40e8-ee06-4934-851c-aeadf45d62b2,Foodmaxx,7477 Watt Ave,supermarket,['retail'],,,,9163483425,2,38.702705,-121.38418
+5ee53cc8-2474-40e8-ae34-5be842a0a8d5,FoodMaxx,7477 Watt Ave,supermarket,['grocery_store'],FoodMaxx,,https://foodmaxx.com/,+19163483425,2,38.7026667,-121.3841377
+2d4e8346-5d56-40f7-974b-2ba392af5c3d,Grocery Outlet,3643 Elkhorn Blvd,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/423?utm_source=fb&utm_medium=yext,+19165501106,2,38.6914699,-121.3805178
+d4bb7f01-ea51-4562-a7af-8787dc4c1666,La Superior Mercados,5731 Hillsdale Blvd,grocery_store,['supermarket'],La Superior Mercados,,http://lasuperiormercados.com,+19163326200,2,38.6724949,-121.3584179
+eb72436c-1e77-4f0b-9299-e681ce23ab4c,India Market Sweets and Spices,5203 Elkhorn Blvd,grocery_store,['specialty_grocery_store' 'supermarket'],,,http://www.marketindia.com/,+19163385511,2,38.6881897,-121.3429309
+8b6fcc04-3ba8-407d-993a-44539b2c3424,Safeway,5345 Elkhorn Blvd,grocery_store,['supermarket' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/sacramento/5345-elkhorn-blvd.html,+19163312987,2,38.6863534,-121.3395413
+136c2e7f-af81-4e70-a88d-9e4f4c38678f,Grocery Outlet,6059 Greenback Ln,supermarket,['superstore'],Grocery Outlet,Q5609934,,,2,38.68135,-121.32607
+76222da2-2ec9-40ba-a356-aee8fa268a79,Safeway,7301 Greenback Ln,supermarket,['grocery_store' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/citrus-heights/7301-greenback-ln.html,+19167272424,2,38.6799578,-121.2938668
+54a2ccf4-461f-4063-ab0e-e059cb26f900,Vibrapet Foods Vibrapet,7250 Auburn Blvd,grocery_store,['health_food_store' 'restaurant'],,,http://www.vibrapet.com,+19166013584,2,38.6976816,-121.2897836
+86e5ad5a-701e-4b1e-a406-97fbf3cee84f,European Delicatessen,4319 Elkhorn Blvd,grocery_store,['delicatessen' 'supermarket'],,,https://european-delicatessen-ca.hub.biz/,+19163323537,2,38.6953873,-121.3630122
+879af680-7192-4b69-adb2-d6ec78069d81,Bel Air,7901 Walerga Rd.,supermarket,['superstore'],Bel Air,Q112922067,https://www.raleys.com/store/519,,2,38.711831,-121.365817
+15d37046-ddbd-4f62-bc82-8b1869236059,Indian Bazaar,4400 Elverta Rd,grocery_store,['specialty_grocery_store' 'shopping'],,,,+19167454922,2,38.7128997,-121.3624307
+fcb24d28-a4dd-4198-b9f7-e4158f0b4296,WinCo,4137 Elverta Rd,grocery_store,['supermarket' 'retail'],WinCo,,https://wincofoods.com/,+19167210113,2,38.7154946,-121.3672294
+c9f96ed1-83e5-4142-856b-8cebebf64e96,Raley's Supermarkets,7901 Walerga Rd,grocery_store,['pharmacy' 'supermarket'],,,https://www.raleys.com/www/,+19167250333,2,38.711838,-121.366189
+651501ac-cc4f-404c-8600-d2d4c62bb941,Antelope produce,8225 Windmill Oaks Ct,grocery_store,['supermarket' 'health_food_store'],,,,+19162663743,2,38.71895,-121.33337
+2dfcfbab-5bad-40c1-8c98-8b7170d15e11,Roseville Market,1701 Pfe Rd,grocery_store,['supermarket' 'eat_and_drink'],,,,+19167827374,2,38.729041,-121.3128942
+d8d797d9-f71d-4728-84de-aba5af44a673,Nori Direct,3242 Coulter Ct,grocery_store,['supermarket' 'bakery'],,,http://www.noridirect.com/facebook.sc,+19165311681,2,38.723169,-121.387173
+f16eebe1-6df2-49f8-b196-11a87fa873de,Safeway,989 Sunrise Ave,supermarket,['grocery_store' 'pharmacy'],Safeway,,https://local.safeway.com/safeway/ca/roseville/989-sunrise-ave.html,+19167734001,2,38.7308412,-121.2711904
+c34479f4-1556-42dc-821f-8ff2bd85d8ad,Bel Air,1039 Sunrise Ave,grocery_store,['supermarket' 'shopping'],,,https://www.raleys.com/store/509,+19167866101,2,38.728698,-121.2712328
+a440df0d-a2b5-4629-9db4-128546001bae,Raley's Supermarkets,1039 Sunrise Ave,grocery_store,['pharmacy' 'supermarket'],,,https://www.raleys.com/www/,+19167866104,2,38.728644,-121.270774
+5170c552-d7f9-48e5-961b-955cddf18c86,Smart & Final Extra!,8481 Old Auburn Rd,grocery_store,['shopping' 'health_food_store'],,,http://locations.smartandfinal.com/ca/citrus-heights/407/,+19167290689,2,38.72791,-121.21915
+66bd1c41-1d8f-4c7f-8e48-f68c88fbf31b,Food Max,8136 Glen Alta Way,grocery_store,['restaurant' 'fast_food_restaurant'],,,,+19167232705,2,38.711405,-121.26413
+90197f2e-f23e-41d3-a7a6-a94406b5d53a,Mariposa Market,7754 Mariposa Ave,grocery_store,['supermarket' 'eat_and_drink'],,,http://mariposamarket.com/,+19167218181,2,38.7069663,-121.2810351
+e6a0962d-ba59-49a3-bb3b-b27a555c20c8,Narenj Mediterranean Grocery,7700 Sunrise Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,,+19167353562,2,38.7063829,-121.2710228
+58b4f1dc-86d8-415b-8543-c7797af9c526,Rangoon Grocery,7601 Sunrise Blvd,grocery_store,['supermarket' 'shopping'],,,https://rangoonmarket.com/,+19169109994,2,38.7036721,-121.2728723
+a1710eb5-259d-41b5-9c3b-aac1bbf80ebe,FoodMaxx,6982 Sunrise Blvd,supermarket,['grocery_store' 'eat_and_drink'],FoodMaxx,,https://foodmaxx.com/,+19167232446,2,38.6931648,-121.2700747
+642fe7ed-558f-4b56-8b63-de319bc9cc89,Sprouts Farmers Market,7905 Greenback Ln,grocery_store,['health_food_store' 'organic_grocery_store'],Sprouts Farmers Market,,https://sprouts.com/store/ca/citrus-heights/citrus-heights,+19165602000,2,38.679765,-121.270727
+58193435-ac46-48ab-afff-d7bae15a7aa5,Farmers' Country Market,7672 Greenback Ln,grocery_store,['liquor_store' 'farmers_market'],,,https://farmerscountrymarket.business.site,+19167254001,2,38.6781609,-121.2816366
+84e6b81f-dd34-452b-a147-64ff91b85d15,Recycling center,7672 Greenback Ln,grocery_store,['liquor_store' 'supermarket'],,,,+19169923656,2,38.6781357,-121.281567
+893d62ec-29ad-488d-84d6-d9ad53bdf23d,Walmart Neighborhood Market Citrus Heights,6197 Sunrise Blvd,grocery_store,['supermarket' 'discount_store'],Walmart,,https://www.walmart.com/store/4759,+19165600031,2,38.6757747,-121.2728886
+5c62d35f-e1bc-4c3b-b89f-088c9225542f,WinCo,8701 Greenback Ln,grocery_store,['supermarket' 'organic_grocery_store'],WinCo,,https://wincofoods.com/,+19169884378,2,38.6797632,-121.2337437
+dbf9fc18-8d4a-4ff9-a297-001a5614d8f7,Grocery Outlet,8835 Greenback Ln,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/376?utm_source=fb&utm_medium=yext,+19162939901,2,38.6798888,-121.2292461
+89001bcb-3193-4c4a-9425-c0a922fa7dc4,Sina Market and Bakery,8700 Greenback Ln,grocery_store,['bakery' 'supermarket'],,,,+19166165898,2,38.6782481,-121.2342717
+19b44f6d-75c5-456c-b972-d0e317e9bebd,O' Connors Catering,9267 Greenback Ln,grocery_store,['delicatessen' 'caterer'],,,https://www.woodpit.com/contact.html,+19164859662,2,38.678611,-121.208766
+e941b2fb-06dd-4514-a1f9-59f753a3c082,K&K Chai,705 Gold Lake Dr,grocery_store,['specialty_grocery_store' 'bakery'],,,http://kandkchai.com/contact,+15304094110,2,38.67779,-121.17969
+ff09114e-52b8-404e-9ec9-5cc32abf61dd,Papa's Olive Source,813 Sutter St,grocery_store,['health_food_store' 'farm'],,,,+19169783840,2,38.676374,-121.178218
+c8a29c3b-9771-413a-b997-95045399a404,99 Ranch Market,25000 Blue Ravine Rd,grocery_store,['supermarket' 'shopping'],,,http://www.99ranch.com/,+19169846899,2,38.6905557,-121.1250592
+9c9b91b8-98dc-4f34-9ec7-9ba64ac8e609,Trader Joes,850 E Bidwell St,grocery_store,['supermarket' 'organic_grocery_store'],Trader Joe's,,https://locations.traderjoes.com/ca/folsom/172/,+19168178820,2,38.6723456,-121.1559081
+14ffb61c-bb06-4d5d-8104-c57b37a7ce2b,Safeway,2207 Francisco Dr,grocery_store,['supermarket' 'pharmacy'],Safeway,,https://local.safeway.com/safeway/ca/el-dorado-hills/2207-francisco-dr.html,+19169399456,2,38.7113389,-121.0841834
+7fdf11a2-e069-4e68-85a5-75d53f99912a,Nugget Markets,4500 Post St,grocery_store,['supermarket' 'specialty_grocery_store'],Nugget Markets,,https://www.nuggetmarket.com/,+19169331433,2,38.652709,-121.0671177
+396c1e6e-8846-4954-aedb-338b24d6d7bf,Raley's O-N-E Market,3935 Park Dr,supermarket,['grocery_store' 'shopping'],,,http://www.raleys.com/,+19169330518,2,38.6557424,-121.0698115
+8f43a5ee-1b19-4458-a5b0-2532591a113e,Sprouts Farmers Market,10846 Bear Hollow Dr,grocery_store,['health_food_store' 'organic_grocery_store'],Sprouts Farmers Market,,https://www.sprouts.com/store/ca/rancho-cordova/452-rancho-cordova/,+12792787553,2,38.5778171,-121.2820435
+4dbd86a7-f5d3-4a46-809e-1dd41393f42c,German Mini Mart,11336 Sunco Dr,grocery_store,['supermarket' 'health_food_store'],,,http://www.germanshop24.com,+19162736029,2,38.602203,-121.262474
+ee8995c3-c10a-4658-aed4-c40d13f8c210,Cali Saigon Mall Rancho Cordova,2738 Sunrise Blvd,supermarket,['grocery_store' 'shopping_center'],,,http://shunfatsupermarket.com/,+19168888388,2,38.60197,-121.2688
+1f569110-c707-4012-a908-eb1ce9427e47,KP Supermarket,,grocery_store,['supermarket' 'shopping'],,,,+441612056064,2,38.5953587,-121.2826115
+3fb6a95e-2506-4f69-a590-013415662a01,South Pacific and Asian Mart,10947 Olson Dr,grocery_store,['specialty_grocery_store' 'supermarket'],,,,+19166353262,2,38.596201,-121.2829962
+c3e867ab-7a4a-42d1-aa43-50c80c0f98d2,Indian grocery,10947 Olson Dr,grocery_store,['supermarket' 'bakery'],,,,,2,38.59601,-121.28308
+2d2e1a80-824f-4cf5-a50c-f4ea03ea7743,KP International Market,10971 Olson Dr,grocery_store,['supermarket'],,,http://sac.kpinternationalmarket.com/,+19168538000,2,38.5969541,-121.2833739
+6458e824-bc9e-4261-b664-17d0e5f1319f,Smart & Final Extra,2344 Sunrise Blvd,supermarket,['grocery_store' 'discount_store'],Smart & Final,,http://www.smartandfinal.com/store,+19166388660,2,38.6166129,-121.2708055
+9176961a-f46b-4066-a05c-399518fba2e5,Afghan Supermarket & Bakery,11076 Coloma Rd,supermarket,['bakery' 'grocery_store'],,,http://www.afghansupermarketbakery.com/,+19168390064,2,38.6167482,-121.2729957
+e802b51b-3ba7-42d3-a761-d82d48d23c07,Grocery Outlet,2280 Sunrise Blvd,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/553?utm_source=fb&utm_medium=yext,+19166711520,2,38.6195491,-121.2691697
+0da4a8a7-50e6-4a2b-a402-ee3c104d2d1d,Reliance SuperMart,297 Iron Point Rd,supermarket,['grocery_store' 'specialty_grocery_store'],,,http://www.reliancesupermart.com/,+19162940027,2,38.6413724,-121.1899767
+b36a2c73-3272-415e-94ab-e2a2c702e4ce,Safeway,1850 Prairie City Rd,supermarket,['grocery_store' 'retail'],Safeway,,https://local.safeway.com/safeway/ca/folsom/1850-prairie-city-rd.html,+19166082450,2,38.6498601,-121.1655511
+c53fa880-d7c2-4dc6-89ba-bfe7de9ed74b,Whole Foods Market,270 Palladio Pkwy,supermarket,['specialty_grocery_store' 'organic_grocery_store'],Whole Foods Market,,https://www.wholefoodsmarket.com/stores/folsom,+19169848500,2,38.6488622,-121.1181472
+24a8358e-1949-41ab-89e8-1b7073282cca,Raley's Supermarkets,2760 E Bidwell St,supermarket,['grocery_store' 'pharmacy'],,,https://www.raleys.com/www/,+19169838844,2,38.656171,-121.121826
+1ded524f-937d-4c31-aa6f-93f733b5e0d4,Trinetra Indian Grocery,310 S Lexington Dr,grocery_store,['specialty_grocery_store' 'supermarket'],,,,+19169837275,2,38.6667122,-121.1335327
+44464f2a-2e38-44f5-9203-cb9601dba69d,Grocery Outlet,671 E Bidwell St,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://groceryoutlet.com/circulars/storeid/165,+19169869131,2,38.671352,-121.1625484
+7955913f-f3f3-42de-9338-9692a8d8a56b,Sprouts Farmers Market,905 E Bidwell St,supermarket,['health_food_store' 'organic_grocery_store'],Sprouts Farmers Market,,https://sprouts.com/store/ca/folsom/folsom,+19166057050,2,38.6692824,-121.1573832
+b74a9d5a-eabb-4b3f-a063-5fc4bb10ba60,Walmart Supercenter,1018 Riley St,supermarket,['superstore'],Walmart,Q483551,https://www.walmart.com/store/1760-Folsom-CA,,2,38.668326,-121.167602
+08f2629d-5808-435f-b4a6-6fd158b8ce51,Shreyus Indian Supermarket,1115 Riley St,supermarket,['grocery_store' 'shopping'],,,https://linktr.ee/shreyusindiansupermarket?utm_source=linktree_admin_share,+19169835484,2,38.6712026,-121.1643087
+524153c4-ed78-4c87-a2b8-6a6fc8969e77,WinCo,200 Blue Ravine Rd,grocery_store,['supermarket' 'retail'],WinCo,,https://wincofoods.com/,+19166084801,2,38.6556656,-121.1750751
+8072e054-7a74-4395-9fe3-3f49794061eb,Safeway,8925 Madison Ave,supermarket,['grocery_store' 'pharmacy'],Safeway,,https://local.safeway.com/safeway/ca/fair-oaks/8925-madison-ave.html,+19169651034,2,38.6651012,-121.2242707
+5cfc8869-76ff-4347-9898-2d99fa6fe24a,Raley's,8870 Madison Ave.,supermarket,['superstore'],Raley's,Q7286970,https://www.raleys.com/store/421,,2,38.663539,-121.227833
+16e264ad-646e-4ff5-9dc5-645260c355da,Fair Oaks Farm Market,,grocery_store,['health_food_store' 'topic_concert_venue'],,,http://www.fairoakslife.com/,+19162954151,2,38.64184,-121.26986
+a45f8b2a-d2d2-4bcd-ae39-0b1a7947578e,Desi Bazaar Grocery,8121 Madison Ave,grocery_store,['supermarket'],,,,+19168630390,2,38.6648852,-121.2603397
+1cba870a-64c5-47e7-81bf-ce9d84b7715d,A1 Meat Market & Grocery,8121 Madison Ave,grocery_store,['butcher_shop' 'supermarket'],,,https://a1-meat-market-grocery.edan.io,+19165347591,2,38.6648309,-121.2611097
+3492f778-4569-4068-be7d-90eb9fa9d0ec,Smart & Final Extra!,7945 Madison Ave,grocery_store,['supermarket' 'wholesale_store'],Smart & Final,,http://www.smartandfinal.com/store,+19169611202,2,38.6652533,-121.2708058
+c4a5c5c7-35d0-437e-8005-06ff4f55d17f,Trader Joe's,5309 Sunrise Blvd,grocery_store,['supermarket' 'organic_grocery_store'],Trader Joe's,,https://locations.traderjoes.com/ca/fair-oaks/71/,+19168631744,2,38.6620513,-121.2737524
+c8783db5-87c8-4a47-ba0b-ae1364a0f790,Safeway,5450 Dewey Dr,grocery_store,['supermarket' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/fair-oaks/5450-dewey-dr.html,+19169045356,2,38.6651974,-121.3072615
+496ff850-a107-494f-ab82-522d3cf92802,Walmart Neighborhood Market Carmichael,6005 Madison Ave,supermarket,['grocery_store' 'discount_store'],Walmart,,https://www.walmart.com/store/5981,+19165341157,2,38.6625449,-121.3249724
+61b2685b-80e5-47b6-b240-b915ffb8ead5,Ray's Mart,5363 Auburn Blvd,grocery_store,['supermarket' 'butcher_shop'],,,http://rays-mart.com/,+19163334463,2,38.6677635,-121.3389958
+27c9b202-63f5-47d2-9551-ff174670cc0c,Stop and Shop Food Mart,4321 Madison Ave,supermarket,['grocery_store'],,,http://www.stopandshop.com/,+19163318495,2,38.6614399,-121.3630353
+75c11bae-9114-4502-9727-e5e5178089c2,Aery's Market,4710 Auburn Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,,+19163492951,2,38.6534683,-121.3542565
+b7263f20-3fa5-43f9-ac29-9461b0d731e9,Smart & Final,4820 Madison Ave,grocery_store,['supermarket' 'discount_store'],Smart & Final,,http://www.smartandfinal.com/store,+19163443921,2,38.6604652,-121.3516033
+882b549f-a4b0-49f2-8bd0-a608018288ca,Four Seasons Market,5111 College Oak Dr,grocery_store,['supermarket' 'eat_and_drink'],,,,+19163328572,2,38.6593332,-121.3509226
+16f6fcfc-0eee-45a3-945d-262dd6a5c01c,Mediterranean Sea Market & Deli,5112 Madison Ave,grocery_store,['delicatessen' 'supermarket'],,,https://web.ineons.com/msmd,+19163084429,2,38.6605211,-121.3454337
+ecb2beee-a526-4e18-a133-eab579ec1e71,Smart & Final Extra!,7223 Fair Oaks Blvd,supermarket,['retail'],,,http://smartandfinal.com/stores#/8075,9164866315,2,38.6322893,-121.3294967
+db9ce4d3-2f4c-4b7e-97e4-ee752438c4e5,Smart and Final,7223 Fair Oaks Blvd,grocery_store,['wholesale_store' 'supermarket'],Smart & Final,,http://www.smartandfinal.com/store,+19164866315,2,38.6327955,-121.3293719
+4aaeddec-c008-4884-a266-4f9410e79dd1,فروشگاه انترنتی,,grocery_store,['health_food_store'],,,,,2,38.64019,-121.32851
+86cb09f0-5cb0-4c13-8f2c-2d5fdf9fe92b,Khurasan Market,4141 Manzanita Ave,grocery_store,['supermarket' 'eat_and_drink'],,,,+19166962181,2,38.6402385,-121.3286582
+f20025db-d871-4584-b031-d4a5931bd914,Save Mart,4708 Manzanita Ave,grocery_store,['atms' 'supermarket'],Save Mart,,https://foodmaxx.com/,+19169799191,2,38.6494946,-121.3261339
+005f1c22-f57c-4e75-b8f4-915f262c52de,FoodMaxx,4708 Manzanita Ave,grocery_store,['supermarket' 'eat_and_drink'],FoodMaxx,,https://foodmaxx.com/,+19169799191,2,38.649809,-121.3257575
+cf62d902-3903-4857-b085-9097df8a3d6f,Sana Market and bakery,6451 Fair Oaks Blvd,supermarket,['grocery_store' 'bakery'],,,,+19169131186,2,38.6187347,-121.3289537
+9b3b6165-ee9b-48cd-a160-04dc9c2ff04c,Mi Rancho RC,10669 Coloma Rd,supermarket,['grocery_store' 'bakery'],,,http://www.westernunion.com/,+19168588077,2,38.6125811,-121.2908581
+f8d9b888-2057-47fd-9dd0-b2368d1e2ba4,Coloma Grocery,2225 McGregor Dr,grocery_store,['supermarket' 'fishmonger'],,,https://coloma-grocery.hub.biz,+19166354363,2,38.6107968,-121.2902369
+2a0339b6-f541-4694-abe0-bddf8098fd9c,Safeway,10635 Folsom Blvd,supermarket,['grocery_store' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/rancho-cordova/10635-folsom-blvd.html,+19163644940,2,38.5953051,-121.2932745
+2494769f-0e6f-4557-b3b1-5e47967ad16d,Zam Zam Halal Market and Meat,2901 Mather Field Rd,grocery_store,['butcher_shop' 'meat_wholesaler'],,,,+19168859145,2,38.5851948,-121.3094606
+11452751-3acb-4283-a3c4-62aaf485b2cb,Viva Supermarket,10385 Folsom Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,http://vivasupermarket.com,+19164764243,2,38.5899084,-121.3040723
+928906fb-edc8-45d9-83b1-948d21629f2d,Whole Foods Market,4315 Arden Way,grocery_store,['supermarket' 'specialty_grocery_store'],Whole Foods Market,,https://www.wholefoodsmarket.com/stores/sacramento,+19164882800,2,38.5966292,-121.3637756
+d2343508-109d-428c-9528-bb50a92c2614,Grocery Outlet,5025 Marconi Ave,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/470?utm_source=fb&utm_medium=yext,+19166928110,2,38.6184928,-121.3468422
+bcd03505-139d-4b5d-aaab-b9cf3009ca31,Grocery Outlet,5025 Marconi Ave,supermarket,['superstore'],Grocery Outlet,Q5609934,,,2,38.6231,-121.34705
+e3ae0721-6568-4233-9ac8-2f0d3f98aa46,Pamir Halal Market,4306 Marconi Ave,grocery_store,['supermarket' 'shopping'],,,,+19165500811,2,38.6172081,-121.3638791
+a37bc39d-bcfc-4a43-98b8-1fe04e17f11b,Shinwari Market & Restaurant,3323 Watt Ave,grocery_store,['restaurant' 'bakery'],,,https://sacramentohalalfood.com,+19169131676,2,38.6267649,-121.3836501
+ec78ac4b-cf52-44cd-8560-21f6f6fd5ef5,Raley's,3518 Marconi Ave,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.raleys.com/,+19169727177,2,38.6170064,-121.3817247
+a7272d30-7221-40ed-9240-ee663bdcf810,Sprouts Farmers Market,2735 Marconi Ave,grocery_store,['supermarket' 'health_food_store'],Sprouts Farmers Market,,https://www.sprouts.com/store/ca/sacramento/sacramento-town-country/,+19169993410,2,38.6191444,-121.397989
+00b0d7b3-cffb-4bda-a2ef-a033b1a8ac01,Trader Joes,2625 Marconi Ave,grocery_store,['supermarket' 'organic_grocery_store'],Trader Joe's,,https://locations.traderjoes.com/ca/sacramento/70/,+19164818797,2,38.6185488,-121.4000581
+310983cd-9fd5-4d9d-b3d7-12bee3a46d98,Walmart Neighborhood Market Sacramento - Marconi Ave,2700 Marconi Ave,grocery_store,['supermarket' 'discount_store'],Walmart,,https://www.walmart.com/store/5982,+19165766657,2,38.6170678,-121.3990824
+244b8d86-f89e-4c62-8a5c-d0590808b2a1,Belal Market,2633 El Camino Ave,supermarket,['grocery_store' 'health_food_store'],,,https://belal-market.business.site/?copy,+19169131291,2,38.6110059,-121.400041
+dbc689ad-3957-4b6b-bfee-e715eee1ef4a,WinCo,2300 Watt Ave,grocery_store,['supermarket' 'shopping'],WinCo,,https://wincofoods.com/,+19162465370,2,38.6073417,-121.3818168
+6c46e284-54a3-4698-aee0-d4afb81c3162,Afghan Pita Market & Restaurant,2989 Arden Way,grocery_store,['restaurant' 'supermarket'],,,,+19168835281,2,38.5962617,-121.3955258
+2ec43dba-bbfb-4ebc-b06b-740429bdac78,Arteaga's Market,3100 Arden Way,grocery_store,['supermarket' 'butcher_shop'],,,http://www.arteagasmarkets.com/,+19165158232,2,38.5957059,-121.3918764
+09a340d0-624c-4d86-a6cd-2bc34248f71e,Smart and Final Extra,1734 Watt Ave,grocery_store,['supermarket' 'shopping'],Smart & Final,,http://www.smartandfinal.com/store,+19164847402,2,38.5969935,-121.3814546
+e757b539-f699-4b3c-967a-9cb2ccd7c0db,Safeway,3320 Arden Way,grocery_store,['supermarket' 'eat_and_drink'],Albertsons,,https://local.safeway.com/safeway/ca/sacramento/3320-arden-way.html,+19164839389,2,38.5947263,-121.3864222
+e832ab8b-8c1c-4da9-91ea-dad1322034f9,Price Cutter Market,3033 Hurley Way,grocery_store,['supermarket'],Price Cutter,,http://www.pricecutteronline.com,+19168747822,2,38.5890889,-121.3924358
+a046afa1-5e27-4f2e-a5e9-520797d74f9b,International Market,1345 Fulton Ave,grocery_store,['supermarket' 'bakery'],,,http://www.ijandt.com/,+19164870101,2,38.5902643,-121.4022334
+b432aec5-b5c8-41b2-a0ce-60f5953b89f8,Fulton-Sacramento Grocery Outlet ,1309 Fulton Ave,grocery_store,['supermarket' 'bakery'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/586,+19165659100,2,38.58911,-121.40204
+11420fe7-f480-46fa-a133-883a38e1aec7,Majesty African Market,2590 Alta Arden Expy,grocery_store,['shopping'],,,http://majestymarketplace.com/,+19166866253,2,38.5994256,-121.4024456
+2341d322-2074-413c-b7ff-f7423ad7a913,Arden Garden Market,1327 Del Paso Blvd,grocery_store,['farmers_market' 'supermarket'],,,http://ardengardenmarket.com/,+14082049404,2,38.605789,-121.460914
+f35b8e90-bbdb-4f24-b9d4-2729b6b02798,Prosperity of the Lotus Foods,2135 Dale Ave,grocery_store,['health_food_store' 'supermarket'],,,http://www.ProsperityoftheLotusFoods.net/,+19162129044,2,38.60501,-121.462764
+82f05b48-f95b-4a93-a318-cabf5d847952,King's Supermarkets,400 El Camino Ave,supermarket,['grocery_store' 'fruits_and_vegetables'],,,http://kings400food.com,+19169225866,2,38.6106233,-121.4578006
+23abd985-7aaf-4a80-929b-fcceedf94509,Bonfare Market,2600 Rio Linda Blvd,grocery_store,['supermarket' 'shopping'],,,http://www.bonfaremarkets.com,+19165642816,2,38.6149955,-121.4458565
+c70b078a-8cb4-4eec-b828-36b81752aac7,Lauj Enterprise,2685 Rio Linda Blvd,grocery_store,['contractor' 'car_rental_agency'],,,,+19169253785,2,38.616357,-121.446471
+9debb9a5-0799-4167-9fce-acc9b10364b6,Xieng Khouang Market,2511 Rio Linda Blvd,grocery_store,['supermarket' 'shopping'],,,,+19169222243,2,38.6135198,-121.4482189
+c6f29990-aaac-42a0-9e6e-28575cf4f2a7,La Victoria Supermercado,2533 Del Paso Blvd,supermarket,['grocery_store'],,,http://www.lavictoria.com/,+19169235313,2,38.6131407,-121.4462452
+10b373b9-844e-4bb4-b549-e7a46bc0949f,Grocery Outlet,2308 Del Paso Blvd,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/321?utm_source=fb&utm_medium=yext,+19165612355,2,38.6104936,-121.4493591
+53fb1dc9-2bf6-485d-b9f0-9d33721668cc,Viva Supermarket,4211 Norwood Ave,supermarket,['grocery_store' 'shopping'],,,http://www.vivasupermarket.com/,+19169934100,2,38.6447815,-121.4583554
+6b2eba88-ae39-4077-bc34-5946f0f65b6d,Haggin Oaks Market,3560 Del Paso Blvd,supermarket,['grocery_store' 'shopping'],,,http://www.hagginoaks.com,+19169223600,2,38.6309132,-121.4184344
+f27fda5d-4cb4-4906-a45d-ef9d2749a3d2,Four Oaks Market,2140 Grand Ave,grocery_store,['supermarket' 'eat_and_drink'],,,,+19169273937,2,38.6362484,-121.4164786
+ebe951b8-b80f-4d8e-b86d-1774bba415ac,Shams Market and Restaurant,3510 Auburn Blvd,grocery_store,['bakery' 'supermarket'],,,https://www.shamsmarket.com,+19165141471,2,38.6367031,-121.3817972
+f09606bd-2559-4312-9bd4-d3784c812a50,Peenoy Philippine Grocery,5601 Watt Ave,grocery_store,['filipino_restaurant'],,,https://www.mapquest.com/us/california/business-north-highlands/...,+19163325571,2,38.6688461,-121.3834869
+e226888f-481b-4a84-96b0-b21dd1012c08,Que Huong Market,5510 Watt Ave,grocery_store,['supermarket' 'shopping'],,,,+19163443583,2,38.6673312,-121.3826567
+eb642e0b-7019-40fc-996e-44ed3b92c5a0,McClellan Commissary,5507 Dudley Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.commissaries.com,+19169258541,2,38.6672709,-121.3884795
+6bda42eb-3af3-4ceb-893f-8a0ecc832538,Tinoco's Meat Market,4827 Rio Linda Blvd,supermarket,['butcher_shop' 'grocery_store'],,,http://www.tinocosmarket.com/,+19165643685,2,38.6556759,-121.4479467
+8dc90af8-a1c7-48a7-a7e7-db31454d8fdb,Bing's Market,4775 Rio Linda Blvd,grocery_store,['supermarket' 'butcher_shop'],,,http://www.bingsmarket.com/,+19169250058,2,38.6540819,-121.4482784
+14f71282-6880-4ad3-a712-7ac768389510,Mission Foods,4661 Pell Dr,grocery_store,['supermarket' 'naturopathic_holistic'],,,http://www.missionfoods.com,+19169231334,2,38.653156,-121.472771
+f8207c16-46aa-4aec-925f-0066e381f74a,Indika Foods Inc.,4641 Pell Dr,grocery_store,['supermarket' 'shopping'],,,http://www.missionfoods.com,+19169272959,2,38.6526251,-121.471935
+5d78d7c1-87c4-4dcd-abbc-463c266f54f8,Foods Co,3625 Northgate Blvd,grocery_store,['supermarket'],Foods Co,,https://www.foodsco.net/stores/grocery/ca/sacramento/natomas-gardens-shopping-center/704/00355?cid=loc_70400355_fb,+19169278560,2,38.6310838,-121.4770401
+d5d150f3-62fe-4768-aef1-3e52bfbf0f3d,Smart & Final,3315 Northgate Blvd,grocery_store,['supermarket' 'wholesale_store'],Smart & Final,,http://www.smartandfinal.com/store,+19165651501,2,38.6283872,-121.4767998
+8b498a1f-5813-4c73-ba7f-4b13385a02c5,Safeway,3950 Truxel Rd,supermarket,['grocery_store'],,,,+19164193030,2,38.6411006,-121.5077335
+4c5154a8-7f3d-4956-a21e-eb9f813f8619,Desi Market and Grill,2087 Arena Blvd,grocery_store,['indian_restaurant' 'pakistani_restaurant'],,,,+12793451268,2,38.647199,-121.5112666
+9276b58b-4b72-43fb-ad47-1c0340aa54a9,Indian Grocery Outlet,2101 Natomas Crossing Dr,grocery_store,['shopping' 'supermarket'],,,https://indian-grocery-outlet.business.site/,+19169936215,2,38.6402228,-121.5096406
+9899d09c-344a-435e-8da4-48ab15deb01d,Raley's Supermarkets,3250 Arena Blvd,grocery_store,['supermarket' 'liquor_store'],,,https://www.raleys.com/www/,+19164194442,2,38.641987,-121.53368
+2295e30d-4113-44f7-b987-eff0f9297ec1,Sprouts Farmers Market,2810 Del Paso Rd,grocery_store,['health_food_store' 'supermarket'],Sprouts Farmers Market,,https://sprouts.com/store/ca/sacramento/sacramento-natomas/,+19164311111,2,38.6548542,-121.5240548
+95fcfa27-b906-4c97-a795-d4017e3f3674,Sprouts Farmers Market,2810 Del Paso Rd.,supermarket,['superstore'],Sprouts Farmers Market,Q7581369,https://www.sprouts.com/store/ca/sacramento/natomas/,,2,38.655936,-121.523904
+203bfd0e-7815-48e6-8214-ab7d37f512af,Safeway,2851 Del Paso Rd,supermarket,['grocery_store' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/sacramento/2851-del-paso-rd.html,+19162858840,2,38.6572783,-121.524715
+f8f0f2c7-3663-4417-bd53-f622a4b3f518,Tony's Fine Foods,3575 Reed Ave,grocery_store,['supermarket' 'food'],,,http://www.tonysfinefoods.com,+19163744000,2,38.5913619,-121.5610811
+b504fed7-7c29-4589-9bb2-4220ef556deb,La Estrellita Meat Market,1520 Sacramento Ave,grocery_store,['butcher_shop' 'mexican_restaurant'],,,http://orderlaestrellitameatmarket.com/index.php,+19165720139,2,38.5908525,-121.5380975
+79224da6-d3b8-41e5-b886-9033ce3ffd66,State Foods Supermarket,940 Sacramento Ave,grocery_store,['supermarket' 'eat_and_drink'],,,http://statefoods.net/,+19163750598,2,38.5901223,-121.5256149
+683959ac-0a6d-4c04-a8e3-24ac56c35296,Rezku Restaurant Point of Sale,2480 Natomas Park Dr,supermarket,['grocery_store' 'bakery'],,,https://rezku.com/restaurant-pos,+15302987219,2,38.61102,-121.50586
+1d6f3338-55ea-4c1a-b951-cf3396b676b2,Raley's Supermarkets,1540 W El Camino Ave,supermarket,['grocery_store' 'pharmacy'],,,https://www.raleys.com/www/,+19169202493,2,38.611762,-121.496531
+94e30cea-0d23-4efa-a8be-37d9f1ae56f0,Grocery Outlet,1630 W El Camino Ave,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/393?utm_source=fb&utm_medium=yext,+19169239879,2,38.6122078,-121.4995736
+3a8c6986-1ee9-4c2a-a514-3c9be5efea44,Grocery Outlet,1630 W El Camino Ave,supermarket,['superstore'],Grocery Outlet,Q5609934,,,2,38.61266,-121.49922
+30d19a48-ed91-43a1-9dfa-455a280337b7,Belair Supermarets Sacramento,2500 Natomas Park Dr,grocery_store,['supermarket' 'shopping'],,,http://raleys.com,+19169229295,2,38.611507,-121.505309
+2e71e6bb-35a0-493e-aeef-e3f2b94364c5,Crystal Pure Water Store,3291 Truxel Rd,grocery_store,['professional_services' 'food_beverage_service_distribution'],,,http://www.crystalpurewater.store/,+19169209588,2,38.62708,-121.49845
+400652fe-c9ad-4557-a559-053728651f48,FoodMaxx,3291 Truxel Rd,supermarket,['grocery_store' 'eat_and_drink'],FoodMaxx,,https://foodmaxx.com/,+19166462023,2,38.6262088,-121.4988922
+7a4647fb-751c-47b7-a42b-6449ecfcd49c,Natomas Fabrics & Groceries,3291 Truxel Rd,grocery_store,['supermarket' 'fabric_store'],,,,+19166498786,2,38.626454,-121.4988858
+bbec4563-ee5f-411b-a1a2-4b761273358b,Zeeshan Market,3138 Northgate Blvd,grocery_store,['shopping' 'butcher_shop'],,,http://www.ZeeshanMarket1.com/,+19166032121,2,38.6231477,-121.4753901
+c285d9e4-7f36-4948-b227-e172e589aaf4,Shan Market,2313 Northgate Blvd,grocery_store,['specialty_grocery_store' 'supermarket'],,,https://shan-market-ca-1.hub.biz/,+19166499321,2,38.6088276,-121.4763998
+9ced95f4-7e63-421d-8929-cf4683a87f45,La Superior Mercados,2210 Northgate Blvd,grocery_store,['supermarket'],La Superior Mercados,,http://www.lasuperiormercados.com,+19169297095,2,38.6073225,-121.4753471
+eed36592-cfca-45b5-8cc1-8c738f722ee8,American Way Market,401 W El Camino Ave,grocery_store,['supermarket'],,,http://rvsuperdeals.com,+19169274382,2,38.6113684,-121.4719401
+6b622f67-f41d-4d07-8e42-55468c8c6f55,Neighborhood Grocery Store,402 12th St,grocery_store,['supermarket' 'bakery'],,,http://neighborhoodgrocery1.placeweb.site,+19164442515,2,38.5860212,-121.4881719
+1ff64c16-b971-4ccf-9f34-f579e282ea0c,Nope,608 10th St,grocery_store,['health_food_store' 'caterer'],,,,,2,38.584336,-121.492022
+543d69f0-60e9-44cb-87a6-aeb61c455545,Calvin's Market,2331 I St,grocery_store,['liquor_store' 'supermarket'],,,https://d-j-market-sacramento.edan.io,+19164489527,2,38.5765025,-121.4742018
+f89d0c3c-ba43-4c5d-b300-32ff133a26de,Grocery Outlet,1700 Capitol Ave,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/81?utm_source=fb&utm_medium=yext,+19169300899,2,38.5741968,-121.4851393
+af51fd7c-fef9-4a5a-b54d-cf932dd5ba47,California Grown,11 Quail Run Cir,grocery_store,['agriculture' 'community_services_non_profits'],,,http://www.californiagrown.org/,+18312723141,2,38.579548,-121.485079
+017e3210-3fb8-4dfc-9a59-d6faec51a218,Bonfare Market and Liquor,809 20th St,grocery_store,['supermarket' 'liquor_store'],,,http://bonfaremarkets.com/,+19164411798,2,38.5786798,-121.4787285
+d00fc8f0-ecf2-4372-9041-cee63152e26c,Capital Grocery,1501 E St,grocery_store,['supermarket' 'health_food_store'],,,http://placeweb.site/capital-grocery-1,+19164431110,2,38.5839699,-121.4839657
+1d7d83e3-1d19-4f19-94e6-21ee017d1c43,Shoppers Market,1400 G St,grocery_store,['supermarket' 'eat_and_drink'],,,http://shoppersfood.com,+19164435044,2,38.5819766,-121.4863013
+28e5b6d5-33db-42ad-a785-db83faff1a43,Chefs Olive Mix,131 J St,grocery_store,['supermarket' 'health_food_store'],,,http://www.ChefsOliveMix.com/,+19167063105,2,38.5832601,-121.5041422
+f2216c5f-c83c-4458-8b0b-8fe9cabd059f,Casa de Mercado,1015 2nd St,grocery_store,['home_and_garden' 'home_goods_store'],,,http://www.casademercado.net,+19167093215,2,38.5825706,-121.5042132
+67339330-f279-48ef-b389-2de3bc48b533,Taiwan Best Mart,2219 10th St,grocery_store,['asian_restaurant' 'taiwanese_restaurant'],,,http://taiwanbestmart.com/,+19164981698,2,38.566411,-121.4993718
+1c20c0e7-ff53-4cec-9688-b911b2f331a2,Hing Long Supermarket,1301 Broadway,supermarket,['grocery_store' 'shopping'],,,,+19164480887,2,38.5629246,-121.4960706
+bcc46b64-7e1e-4693-bfc5-68542f2b116b,Rublev Fish Delicacies,1829 22nd St,grocery_store,['food' 'supermarket'],,,https://rublevcorpfish.com/,+12799774222,2,38.56621,-121.48101
+fb89171f-f320-421a-addf-6bfa2cf73902,Peace Market,1801 O St,supermarket,['grocery_store' 'eat_and_drink'],,,,+19164427073,2,38.5719634,-121.4848332
+bf26daf3-c0de-42dd-a643-89244cec0a9e,Refill Madness,1828 29th St,grocery_store,['shopping'],,,http://refillmadnesssacramento.com/,+19163824823,2,38.5638854,-121.4722054
+f3d20c5b-e4f1-4a31-b871-00c0ea37ba4d,Sacramento Natural Foods Co-op,2820 R St,grocery_store,['organic_grocery_store' 'health_food_store'],Co-op,,https://linktr.ee/sacfoodcoop,+19164552667,2,38.5645107,-121.4725425
+dffb4ece-803b-4dac-bfe7-22570f6c1620,P.S. Market,2800 T St,grocery_store,['supermarket' 'bakery'],,,http://psxo.com,+19164520526,2,38.5626599,-121.4739792
+be35c731-f956-42fa-91cf-d2c3648282b1,Smart & Final,2431 28th St,grocery_store,['supermarket' 'wholesale_store'],Smart & Final,,http://www.smartandfinal.com/store,+19164510416,2,38.5574844,-121.475563
+71a71670-4999-4d3d-b879-ffdfc7a5d412,Smart & Final,2431 28th St,supermarket,['retail'],,,http://smartandfinal.com/stores#/7991,9164510416,2,38.5576968,-121.476226
+5393dec4-5d53-43e2-94cf-44f73eaa56f6,Bonfare Markets,3100 Broadway,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.bonfaremarkets.com,+19164559637,2,38.55566,-121.4723507
+7a61cd2f-a7e6-40d1-9b95-98528c77b14c,Stanford Market,3404 Martin Luther King Jr Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.stanfordmarket.com,+19164521251,2,38.5438715,-121.4648923
+77f222d9-7922-42b4-8833-9c9776b5ca60,Oak Park Market,3300 12th Ave,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.nwsac.org/oakparkfarmersmarket,+19164510711,2,38.5409692,-121.4708745
+bde4f65f-5827-40fb-8619-a06946a5a3a9,Safeway,3680 Crocker Dr,grocery_store,['supermarket' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/sacramento/3680-crocker-dr.html,+12793999261,2,38.5405302,-121.4834267
+93b8ccf1-2b95-47aa-ae4f-b7f3d7bc3a3b,Taylor's Market,2900 Freeport Blvd,grocery_store,['supermarket' 'restaurant'],,,http://www.taylorsmarket.com/,+19164436881,2,38.5517816,-121.4887267
+6b21dae1-e53e-4ba5-bafd-714ca681f214,Nugget Markets,2000 Town Center Plz,grocery_store,['supermarket' 'specialty_grocery_store'],Nugget Markets,,https://www.nuggetmarket.com/,+19163758700,2,38.5509156,-121.5355584
+a5206703-c3d7-4c77-bc46-97ed999bb078,Earth's Fresh Food Market,3170 Jefferson Blvd,grocery_store,['farmers_market' 'supermarket'],,,,+19166172303,2,38.5403007,-121.5500833
+885e3d51-38c3-4f07-8d3b-4530256615ee,Bainbridge Beverage Co,2335 Del Monte St,grocery_store,['health_food_store' 'supermarket'],,,,+19169429895,2,38.569151,-121.540932
+c00ae044-7dc5-4224-8459-c0992d626f66,Raley's Corporate Office,500 W Capitol Ave,grocery_store,['supermarket' 'eat_and_drink'],,,https://www.raleys.com,+19163733333,2,38.5829216,-121.5144823
+5671587d-bbed-4202-9c1e-e2ac92353d57,Raley's Food For Families,500 W Capitol Ave,grocery_store,['supermarket' 'bakery'],,,http://www.foodforfamilies.org/,+18009259989,2,38.5829216,-121.5144823
+0ed50da9-752d-422c-aeae-b4de6ffbdef6,Ariana Food Market,1638 W Capitol Ave,grocery_store,['supermarket' 'eat_and_drink'],,,http://arianamfoodmarket.com/,+19163758919,2,38.5805865,-121.5299326
+2f268a04-f830-4fa5-9bb3-71009ff68280,Safeway,1298 W Capitol Ave,grocery_store,['supermarket' 'health_food_store'],Safeway,,https://local.safeway.com/safeway/ca/west-sacramento/1298-w-capitol-ave.html,+19163715205,2,38.5827661,-121.5255274
+86146e7c-43e9-4164-90bf-e316deb64013,Amin Food,2216 W Capitol Ave,grocery_store,['butcher_shop' 'restaurant'],,,http://www.yellowpages.com/west-sacramento-ca/mip/amin-foods-475645626,+19163712646,2,38.580043,-121.5389343
+d64f3297-c29f-438b-bb84-43cc4e03cf7b,A and B Liquor,2328 W Capitol Ave,grocery_store,['supermarket' 'liquor_store'],,,https://speed-mart-ab-liquor.hub.biz/,+19163751724,2,38.57991,-121.5409119
+097a6d84-2335-4d92-9cfd-9cedc7a5b488,Jack's Island Market,2021 W Capitol Ave,grocery_store,['supermarket'],,,,+19168464236,2,38.5794754,-121.5365179
+5fc82107-8858-4977-9800-b438a8a3a568,Grocery Outlet,845 Harbor Blvd,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/123?utm_source=fb&utm_medium=yext,+19163726575,2,38.577985,-121.5477862
+9f597b65-c130-413f-b230-d0969230b995,SK Groceries,813 Harbor Blvd,grocery_store,['specialty_grocery_store' 'supermarket'],,,,+12797865107,2,38.5783809,-121.5479229
+11b23903-f81d-40be-8ce3-4dc517d67790,Mercado Loco,3049 W Capitol Ave,supermarket,['grocery_store' 'shopping'],,,,+19163727080,2,38.5781776,-121.5502217
+5f879ff6-db42-45a1-8151-786fc219676d,Venera European Market,2927 W Capitol Ave,grocery_store,['supermarket' 'shopping'],,,,+19167990544,2,38.5785,-121.5495333
+1fdfe31d-5adb-4c05-9f65-081962af6b4f,Thoughtful Food,3939 W Capitol Ave,grocery_store,['health_food_store' 'food_beverage_service_distribution'],,,http://www.thoughtfulfood.net/,+19163721040,2,38.577575,-121.563407
+c0c7f70f-5a5e-4b71-9867-044132724fa6,Raley's Production Bakery,3925 Seaport Blvd,supermarket,['grocery_store' 'bakery'],,,https://www.raleys.com/www/,+19164032222,2,38.5634095,-121.5743817
+cddbc139-8a44-4f45-a58d-a6c83b50c8a4,Farm Fresh To You,3880 Seaport Blvd,grocery_store,['commercial_industrial' 'pharmacy'],,,https://www.farmfreshtoyou.com,+19163037145,2,38.565184,-121.573075
+89d2ef38-26a0-4b56-84e9-bc250aa271de,Pitco Foods,1670 Overland Ct,grocery_store,['supermarket' 'bakery'],,,http://www.pitcofoods.com/,+19163727772,2,38.567095,-121.575497
+db45a88f-e8a0-46a0-a20f-442585ac87c5,Nor Cal Beverage,3010 Ramco St,grocery_store,['supermarket' 'bakery'],,,http://www.ncbev.com,+19163717642,2,38.549784,-121.564946
+52327168-4fee-4df4-84d3-51bb70bc6668,Outrageous Rubs,3140 Sherman Island Rd,grocery_store,['health_food_store' 'supermarket'],,,http://www.outrageousrubs.com/,+19163748080,2,38.540591,-121.562439
+b1f38cc2-d6cb-4a48-b612-c97a612d713d,Bel Air,1301 Florin Rd.,supermarket,['superstore'],Bel Air,Q112922067,https://www.raleys.com/store/506,,2,38.496216,-121.510044
+0c3894af-ab08-416f-833f-f8da60ec2ed3,Green Haven Market & Liquor,350 Florin Rd,grocery_store,['liquor_store' 'shopping'],,,http://shhongtaekwondo.com/,+19163912525,2,38.5084114,-121.5427017
+30cf5e94-fcd7-4554-9c89-5b6cfed4fc50,Shun Fat Supermarket I-5,5820 S Land Park Dr,supermarket,['grocery_store'],,,http://www.shunfatsupermarket.com,+19166198112,2,38.5204336,-121.5130596
+9c4e9b39-0029-4486-ad87-41c2f44ad0da,Oto's Japan Food,5770 Freeport Blvd,grocery_store,['restaurant' 'supermarket'],,,http://www.otosjapanfood.com,+19164242398,2,38.521184,-121.498948
+e3e0e78b-ef5c-4b4d-b23c-9b8a4d582ede,Ho Chin Market,5069 Freeport Blvd,supermarket,['grocery_store' 'shopping'],,,https://ho-chin-market.hub.biz,+19164552994,2,38.5277574,-121.4959494
+4b5e39dd-f6c1-4378-a5f6-252080176272,Tinku's Market,2300 Sutterville Rd,grocery_store,['supermarket' 'eat_and_drink'],,,,+19164565469,2,38.5388278,-121.4868139
+896108be-7cda-4952-b5e4-7b74863954da,Charan Budwal Grocery,4614 Martin Luther King Jr Blvd,grocery_store,['delicatessen' 'supermarket'],,,http://charan-budwal-grocery.edan.io,+19164565031,2,38.5329463,-121.4648627
+f6d58d46-bd13-4e02-a9c8-ff0f2f68189d,La Superior Mercados,4604 Franklin Blvd,supermarket,['grocery_store'],La Superior Mercados,,http://allstate.com,+19167318120,2,38.5333517,-121.4743277
+dd0d9ab3-fab6-4555-921d-b4a5263ac365,Franklin Market,5824 Franklin Blvd,grocery_store,['supermarket' 'food_beverage_service_distribution'],,,,+19164003763,2,38.520632,-121.471334
+1c1aeb3e-0f3e-43a2-a363-43ed87d9635a,Mi Rancho Supermercado,2355 Florin Rd,supermarket,['grocery_store' 'mexican_restaurant'],,,http://www.miranchotexmexrestaurant.com,+19164284218,2,38.4972066,-121.4833836
+981ff6a4-46ac-413f-974d-03bdcf23e8b1,Chhun's Supermarket,6701 Franklin Blvd,supermarket,['grocery_store' 'eat_and_drink'],,,,+19163991356,2,38.5048778,-121.4635949
+11084657-9184-489e-860a-b34a6f4e5212,Kings Market,6421 Martin Luther King Jr Blvd,grocery_store,['supermarket'],,,https://www.netdebt.com,+19163334387,2,38.5097115,-121.4642626
+abaadbba-ff6f-41a2-a298-9085d9670860,East West Foods,4411 47th Ave,grocery_store,['supermarket' 'eat_and_drink'],,,http://eastwestfood.com/,+19164214442,2,38.5107645,-121.4547198
+a2fd9cf4-d71e-4923-9205-76b72d25b125,New Asia Supermarket and Wholesale,6418 Stockton Blvd,supermarket,['imported_food' 'food' 'retail'],,,,9163910173,2,38.5097934,-121.4363826
+59607a2a-ad85-417b-be0a-5e21cfd6a344,Smart & Final,6340 Stockton Blvd,supermarket,['retail'],,,http://locations.smartandfinal.com/ca/sacramento/406/,9164284454,2,38.5119107692308,-121.436546153846
+b82534b6-fb5c-4c57-8f7b-5c7e8e75a3e3,Mi Querida Guatemala Market,5944 Stockton Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,,+15103957387,2,38.5179754,-121.4411797
+d2f33242-1a24-4c37-8727-5ce9c392ef7f,People Salon,6019 Stockton Blvd,supermarket,['grocery_store' 'bakery'],,,,+19163994859,2,38.517384,-121.438138
+54dd094e-0372-4a38-b7b2-a6483372f790,Wing Wa Seafood Supermarket,6021 Stockton Blvd,supermarket,['grocery_store' 'seafood_restaurant'],,,http://www.wingwa.com,+19163919223,2,38.5169491,-121.4381636
+61b73dac-674c-4281-a697-40ab38117f78,Vinh Phat Market,6105 Stockton Blvd,supermarket,['grocery_store' 'shopping'],,,https://vinh-phat-market.hub.biz/,+19164248613,2,38.5156808,-121.4371246
+1c2dcfab-fac0-4440-befc-eccc0c3e1651,SF Supermarket Sacramento,6930 65th St,supermarket,['grocery_store' 'shopping'],,,http://www.shunfatsupermarket.com/,+19163923888,2,38.5015924,-121.4332441
+3684e652-eef0-4732-9fa8-ad3c0c6f5823,Sunrise Halal Market,6964 65th St,grocery_store,['supermarket' 'butcher_shop'],,,,+19168047735,2,38.5005033,-121.4369409
+9d485a41-9d9f-414b-b190-20c2768d86d2,Vinai Wholesale,6968 65th St,grocery_store,['supermarket' 'shopping'],,,,+19163998000,2,38.5005433,-121.4378387
+721939dd-6b0f-46bc-91cb-d1e317f840b3,Red Sea Food Market,6968 65th St,grocery_store,['seafood_restaurant' 'restaurant'],,,https://www.dandb.com/.../redseafoodmarket-sacramento-ca-12080919.html,+19163912224,2,38.5003311,-121.4380931
+9403143c-82cd-42a3-9902-e5e40d146a9d,Umrah Market Halal Grocery & Restaurant,6023 Florin Rd,grocery_store,['restaurant' 'supermarket'],,,https://linktr.ee/umrahhalalmarket?fbclid=IwAR1AxxhIH6m0nT4pDtLKA4A5QQETEWV5yZD_gObmcyvyA7EeZh96WxPMSHY,+19164003412,2,38.4970304,-121.4346976
+4bfa6efb-ba49-4eeb-b443-22d9474bc7c2,Producers Dairy Products Sacramento Branch,8311 Siena Ave,grocery_store,['farm' 'food_beverage_service_distribution'],,,,+19163868629,2,38.519143,-121.395886
+34a17b90-2857-437f-9811-a2feaecfa1b8,Home Storage Center,8401 24th Ave,supermarket,['retail'],,,,9163815157,2,38.5303009,-121.3957813
+eb28a9a3-cc67-44e1-8729-32b67a695ec4,Bishops' Storehouse,8401 24th Ave,supermarket,['retail'],,,,9163815150,2,38.5303009,-121.3957813
+9525e4b3-4169-4cbc-965d-33ff0979fd7b,RA Foods,5640 Warehouse Way,grocery_store,['health_food_store' 'supermarket'],,,http://www.rananoshoots.com/,+19163812305,2,38.5294579,-121.3854842
+d222b2fb-2096-4ac2-9d43-df9ce8085401,Grocery Outlet Distribution Center / Gordon Trucking Drop Yard,,supermarket,['grocery_store' 'food'],,,https://groceryoutlet.com/,,2,38.5363904,-121.3925555
+268353de-44be-44f0-b3c9-5b05e1631ce2,Your Family Groceries,5984 14th Ave,grocery_store,['supermarket' 'health_food_store'],,,,+19164576567,2,38.5391268,-121.43587
+1a93c571-e61b-4e14-98a1-b137b3b7f7ba,King Ben's Crabs,4817 Ortega St,grocery_store,['seafood_restaurant' 'train_station'],,,,+13365805496,2,38.531114,-121.431759
+5571a5fc-c5a8-4ab5-b6a3-108fd4abde19,Welco Supermarket,7100 Fruitridge Rd,grocery_store,['supermarket' 'shopping'],,,http://www.welcosupermarket.net/,+19163872470,2,38.5245598,-121.4213229
+fc829db2-8632-4f8b-9330-b5302eee735c,Watan Halal Market,6808 Fruitridge Rd,supermarket,['halal_restaurant' 'grocery_store'],,,http://watan-halal-market-halal-restaurant.business.site,+19162284655,2,38.524879,-121.4234486
+87294734-fe39-4d11-ab47-6d176bf9bc5b,Goldstar Supermarket,5815 Stockton Blvd,supermarket,['grocery_store' 'shopping'],,,,+19164538992,2,38.5209318,-121.4401225
+b17275c7-f685-417d-b228-53ce7e127cd8,Bel Air,6231 Fruitridge Rd.,supermarket,['superstore'],Bel Air,Q112922067,https://www.raleys.com/store/501,,2,38.525502,-121.431912
+cbbd83aa-ba5f-4c08-9b71-892e413c43e1,Smart & Final,5128 Stockton Blvd,grocery_store,['supermarket' 'wholesale_store'],Smart & Final,,http://www.smartandfinal.com/store,+19165044223,2,38.52836,-121.4453675
+a5ecd85f-4abc-48ca-889d-6454ed4992eb,Foods Co,5330 Stockton Blvd,grocery_store,['supermarket'],Foods Co,,https://www.foodsco.net/stores/grocery/ca/sacramento/stockton-blvd-fc/704/00501?cid=loc_70400501_fb,+19164510806,2,38.5269251,-121.4445981
+86d75678-79a6-417a-95df-8f01d6cf620c,Special food market,4614 Martin Luther King Jr Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,,+19164565031,2,38.5328856,-121.4648393
+b11e34f9-e8d7-4393-adb3-bbf4440f2748,La Superior Mercados,4940 Stockton Blvd,grocery_store,['supermarket'],La Superior Mercados,,http://www.lasuperiormercados.com,+19164517259,2,38.5307918,-121.4455419
+57466379-7cdf-40ca-988e-33aee0e19b7e,Kings market smoke shop 14th ave / 44th str,4330 14th Ave,grocery_store,['health_food_store' 'supermarket'],,,,+19163767461,2,38.5391199,-121.45563
+ce91407e-253f-4816-833a-ac8a63bdb54a,Tony's Market,4011 W Nichols Ave,supermarket,['grocery_store' 'butcher_shop'],,,http://www.tonysmarket.com,+19164574168,2,38.5382871,-121.4592729
+ce137478-4bcc-4025-a8d5-b455b1012127,Rancho San Miguel Markets,4401 Broadway,grocery_store,['supermarket' 'fruits_and_vegetables'],Rancho San Miguel Markets,,https://www.ranchosanmiguelmarkets.com,+19164551291,2,38.5472102,-121.4558198
+e66969a5-3c7a-4170-aaef-6cb65740a529,Grocery Outlet,6720 Folsom Blvd,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://groceryoutlet.com/circulars/storeid/408,+19164003057,2,38.5529943,-121.4254421
+d221a2a8-ef9f-4b21-aa1e-8efcd8ccaae8,Corti Brothers,5810 Folsom Blvd,grocery_store,['eat_and_drink' 'supermarket'],,,http://www.cortibrothers.com/,+19167363800,2,38.5573447,-121.4362492
+ae3fefb2-4bc7-40be-8656-1d4a42dcd746,Save Mart,5600 Folsom Blvd,supermarket,['grocery_store' 'shopping'],Save Mart,,https://www.savemart.com/stores/2c2c6c45-cea3-4d7e-a791-2d0ad134f94b/SACRAMENTO-FOLSOM%20BLVD/622/SACRAMENTO,+19164563862,2,38.5577784,-121.438621
+a7a790ca-4737-4ffb-bf1b-952520accd93,Trader Joe's,5000 Folsom Blvd,grocery_store,['supermarket' 'organic_grocery_store'],Trader Joe's,,https://locations.traderjoes.com/ca/sacramento/175/,+19164561853,2,38.5604764,-121.4447157
+c8eed60f-5059-40eb-a1bf-0ab3f51d0225,Safeway,1025 Alhambra Blvd,grocery_store,['supermarket'],Albertsons,,https://local.safeway.com/safeway/ca/sacramento/1025-alhambra-blvd.html,+19164560852,2,38.5716324,-121.4648048
+644f95e4-e12e-4755-a448-46db596a8c73,Compton's Market,4065 McKinley Blvd,grocery_store,['delicatessen' 'supermarket'],,,https://comptonsmarketeastsac.com,+19164562443,2,38.5785602,-121.447649
+cf566177-e97b-4cdd-9a9b-1163b1b5ac39,River Park Market,5485 Carlson Dr,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.riverparksacramento.net,+19164515168,2,38.573189,-121.4326861
+6e17ac1e-b533-415f-924c-7d550fe89f83,Safeway,424 Howe Ave,grocery_store,['supermarket' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/sacramento/424-howe-ave.html,+19169251676,2,38.5731564,-121.4134062
+ad540cf0-911d-4086-a130-531c0e5ae8ba,The Fresh Market,2339 FAIR OAKS BLVD,supermarket,['superstore'],The Fresh Market,Q7735265,https://stores.thefreshmarket.com/CA/SACRAMENTO/167,,2,38.57552,-121.408966
+d176c6b5-978e-486b-b74c-3f802936f112,Save Mart,2501 Fair Oaks Blvd,supermarket,['grocery_store' 'shopping'],Save Mart,,https://www.savemart.com/stores/d798c9c3-aa1f-480e-9075-fd9b41627fe7/FAIROAKS/625/SACRAMENTO,+19164847994,2,38.5750616,-121.4037012
+acb7f9f4-6d0b-41ef-b7b7-a567fc14924c,J K Food Liquor & Wine,8321 Folsom Blvd,grocery_store,['supermarket' 'liquor_store'],,,http://www.jkfoodliquorandwine.com,+19163816500,2,38.5473832,-121.3993362
+d2987555-0c0f-4f8b-85cc-71cb1a7740d1,Raley's,8391 Folsom Blvd.,supermarket,['superstore'],Raley's,Q7286970,https://www.raleys.com/store/420,,2,38.547536,-121.393551
+014cbdcb-5159-4417-85b3-db7ea8cf5a6b,Save Mart,9137 Kiefer Blvd,grocery_store,['supermarket' 'shopping'],Save Mart,,https://www.savemart.com/stores/3da3232a-f917-405c-9d72-13c8f45ffaa2/KIEFER/623/SACRAMENTO,+19163663555,2,38.5483571,-121.3601532
+946fb922-1b1a-4042-9395-cc46cc7fe8fa,La Popular Super Market,9180 Kiefer Blvd,supermarket,['grocery_store' 'latin_american_restaurant'],,,http://www.lapopularmarket.com/,+19163645394,2,38.5468337,-121.3588021
+beb5f5d0-c6bb-45e6-a5c7-2205875aa6d9,Grocery Outlet,3615 Bradshaw Rd,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/366?utm_source=fb&utm_medium=yext,+19163689447,2,38.5559867,-121.334681
+cf4fa26d-9095-48bc-ba77-d2be0f096ee3,Korean Smile Food Market,2950 Bradshaw Rd,supermarket,['grocery_store' 'delicatessen'],,,https://smile-food-market.hub.biz/,+19163698543,2,38.5706937,-121.3369311
+52da1107-065a-473a-93e0-600373cd13b8,"California Commodities, INC.",9901 Horn Rd,grocery_store,['shopping' 'health_food_store'],,,http://californiacommodities.com/,+19169556576,2,38.5758705,-121.3256607
+d4a22aaf-9707-4d0f-84e7-f887f51b55c7,Guatemala Market,10083 Folsom Blvd,grocery_store,['supermarket'],,,,+19168777959,2,38.5818835,-121.3180029
+59203084-2025-440f-a078-1468b69877c5,Kiranaa Bazaar,10415 Old Placerville Rd,grocery_store,['specialty_grocery_store' 'supermarket'],,,https://www.kiranaabazaar.com/,+19165074320,2,38.5700517,-121.3083092
+e3a22a02-68ae-4196-bc78-7ff080d272f0,Yusol International Foods,6200 88th St,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.yusolfood.com/,+19163831124,2,38.5139046,-121.3724994
+da848b4e-aaf5-48fc-b6a0-d632faec2ffa,Punjabi Bazaar Sacramento,8851 Calvine Rd,grocery_store,['specialty_grocery_store' 'supermarket'],,,,+12096042093,2,38.4531813,-121.3743463
+e9020e80-941a-414b-b5b6-b4421ae285ce,Safeway,8377 Elk Grove Florin Rd,supermarket,['grocery_store' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/sacramento/8377-elk-grove-florin-rd.html,+19166818666,2,38.4534738,-121.3700058
+463adf97-f6c4-47d3-a859-3ce2f8fbffb7,Ales n Tails Patio Bar & Grill,9032 Elk Grove Blvd,supermarket,['grocery_store' 'liquor_store'],,,,+19166850848,2,38.409124,-121.365173
+d02f4f20-22c5-4d5a-8c92-446a94b9b112,Smart and Final,8787 Elk Grove Blvd,supermarket,['grocery_store' 'wholesale_store'],Smart & Final,,http://www.smartandfinal.com/store,+19166857375,2,38.4099711,-121.3769306
+f75264a4-6ff5-4a5b-93b3-e547c21cd862,Adam's International Market,9175 Elk Grove Florin Rd,supermarket,['grocery_store' 'delicatessen'],,,http://www.adamsinternationalmarket.com/,+19166852211,2,38.4240467,-121.3707216
+6ede3d6b-4837-4bfa-be15-0a332bb77bae,Save Mart,9160 Elk Grove Florin Rd,grocery_store,['supermarket' 'shopping'],Save Mart,,https://www.savemart.com/stores/33c49011-7681-4356-8214-d01406ace284/ELK%20GROVE/605/ELK GROVE,+19166855525,2,38.4248378,-121.3729519
+76f22a29-0f7c-42aa-a501-43d384f9374d,Raley's,8425 Elk Grove Florin Rd,supermarket,['grocery_store' 'restaurant'],,,http://www.raleys.com/,+19166815775,2,38.4513101,-121.3704084
+13cad7cb-e081-4cfb-9766-612bb5825778,WinCo,8142 Sheldon Rd,grocery_store,['supermarket' 'shopping'],WinCo,,https://wincofoods.com/,+19166816400,2,38.4362849,-121.4067434
+c4434ecf-a0fd-4b79-964d-5a1c29ac4a26,JinYang Market,8765 Center Pkwy,grocery_store,['health_food_store' 'supermarket'],,,,+19168965689,2,38.4384778,-121.419269
+f9b3e393-40ea-41bf-8701-a89a01f65edc,Grocery Outlet,8517 Bond Rd,grocery_store,['supermarket' 'discount_store'],Grocery Outlet,,https://groceryoutlet.com/circulars/storeid/6,+19167146088,2,38.4253968,-121.3877683
+62919d82-45cf-47cb-b941-e46ed1c6ecd7,Smart & Final Extra!,8787 Elk Grove Blvd,supermarket,['retail'],,,http://smartandfinal.com/stores#/8100,9166857375,2,38.409824,-121.3771589
+bb2c8531-b718-4c31-a5f4-ff1e51fde19f,Marhaba Halal Market and Restaurant,8460 Elk Grove Blvd,grocery_store,['restaurant' 'butcher_shop'],,,,+12793337837,2,38.4086643,-121.3914228
+6ec0ddd1-f1be-4059-9fa8-ab4fc1ad44ce,Walmart Neighborhood Market Elk Grove - Elk Grove Blvd,8455 Elk Grove Blvd,supermarket,['grocery_store' 'discount_store'],Walmart,,https://www.walmart.com/store/5683,+19165093170,2,38.410131,-121.3918556
+e26ac3f9-c7fb-47cc-851a-405fff332cc1,DILE,,grocery_store,['eat_and_drink'],,,,+19162084160,2,38.4106199,-121.4047699
+46c95ebd-f480-484f-a28b-c7dd43fb4243,Nugget Markets,7101 Elk Grove Blvd,grocery_store,['supermarket' 'specialty_grocery_store'],Nugget Markets,,https://www.nuggetmarket.com/,+19162262626,2,38.4099768,-121.4201452
+e8b39c22-ce4c-4635-8fde-77b7a2258111,Sprouts Farmers Market,8211 Laguna Blvd,grocery_store,['supermarket' 'organic_grocery_store'],Sprouts Farmers Market,,https://sprouts.com/store/ca/elk-grove/elk-grove,+19164789595,2,38.4234524,-121.4061002
+cab86943-660d-4084-95fe-307da0559391,The Fresh Market,7707 LAGUNA BLVD.,supermarket,['superstore'],The Fresh Market,Q7735265,https://stores.thefreshmarket.com/CA/ELK-GROVE/173,,2,38.425089,-121.413166
+4ff01fdb-905b-4255-8fc4-fb2faffa5da7,Toledo's Mexican Market,9059 Bruceville Rd,grocery_store,['supermarket' 'shopping'],,,https://www.toledoselkgrove.com,+19165099312,2,38.4281681,-121.4173959
+c508b990-7060-4d76-9d76-72c6f2f2d183,Toledos Market #2,9059 Bruceville Rd,grocery_store,['eat_and_drink' 'health_food_store'],,,,+19165099312,2,38.42841,-121.41737
+c7305043-ff08-48fb-8b9d-5e217d9f7bcc,Safeway,5021 Laguna Blvd,grocery_store,['supermarket' 'eat_and_drink'],Safeway,,https://local.safeway.com/safeway/ca/elk-grove/5021-laguna-blvd.html,+19166913770,2,38.424089,-121.4461353
+96e0ef22-8526-472d-a8c6-5a034bf49cea,Shun Fat Supermarket,4562 Mack Rd,supermarket,['grocery_store' 'discount_store'],,,http://www.shunfatsupermarket.com/sf-supermarket-sacramento-mack-rd,+19163956868,2,38.4726663,-121.4488445
+d409f1e0-bbce-4b83-8a40-a6d49a91eb1b,Apna Punjab and Fiji Supermarket,6640 Valley Hi Dr,supermarket,['specialty_grocery_store' 'grocery_store'],,,,+19166884116,2,38.4721198,-121.4263258
+7a90b08a-c3f9-4344-86d7-c1c27507b940,Foodsco,7421 W Stockton Blvd,supermarket,['superstore'],Foods Co,Q5465282,https://www.foodsco.net/stores/grocery/ca/sacramento/college-square-marketplace/704/00532,,2,38.4566875,-121.4154151
+fc249260-fe7c-4314-84ee-4a5e3eadca7a,Foods Co,7421 W Stockton Blvd,grocery_store,['supermarket'],Foods Co,,https://www.foodsco.net/stores/grocery/ca/sacramento/college-square-marketplace/704/00532?cid=loc_70400532_fb,+19166883343,2,38.4566841,-121.4154183
+bf83ab83-d00e-42f2-abba-4c879fd4b2c8,Grocery Outlet,7923 E Stockton Blvd,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://groceryoutlet.com/circulars/storeid/46,+19164056081,2,38.4701809,-121.4161704
+a42860cd-b839-44c5-9cf6-210737709326,Soni's Supermarket & Sarees,7400 Elsie Ave,supermarket,['grocery_store' 'clothing_store'],,,http://sonis-supermarket.hub.biz/,+19167061836,2,38.4738111,-121.4173645
+571e6ab0-2c97-4e4e-b13d-263d837257ee,De afghanan market,7810 Stockton Blvd,grocery_store,['restaurant' 'supermarket'],,,,+19164763800,2,38.4737825,-121.4202232
+ec3721a8-311a-4e58-91fe-33845e57cebe,Save Mart,7960 Gerber Rd,grocery_store,['supermarket' 'shopping'],Save Mart,,https://www.savemart.com/stores/8ffc646d-e857-4688-906d-f68b385d82ad/GERBER/619/SACRAMENTO,+19166898300,2,38.4807005,-121.4100454
+6fb5f6cd-4e24-4d1c-8ce4-07475187fb00,Foods Co,8122 Gerber Rd,grocery_store,['supermarket'],Foods Co,,https://www.foodsco.net/stores/grocery/ca/sacramento/gerber-road-fc/704/00371?cid=loc_70400371_fb,+19166895959,2,38.4805288,-121.4074938
+43767047-19b6-4301-ac86-d757c0d3871a,Pepsi Beverages Co,7550 Reese Rd,grocery_store,['supermarket' 'bakery'],,,www.pepsi.com,+19496435700,2,38.483243,-121.398471
+b3508142-b602-46e6-9a7f-67b3e6f8f10d,Del Valle Supermarket,7870 Florin Rd,supermarket,['grocery_store' 'eat_and_drink'],,,https://www.delvallesupermarket.com/,+19168983906,2,38.4951077,-121.4114062
+62811a63-a272-43d1-a295-76e109e25823,India House of Grocery,6618 Florin Rd,grocery_store,['shopping' 'supermarket'],,,http://www.yelp.com/biz/india-house-of-grocery-sacramento,+19164246342,2,38.49547,-121.4254757
+8c2fce99-6673-4a35-9da0-6e96e32d4207,Sikandar Cash and Carry,7472 Stockton Blvd,supermarket,['grocery_store' 'wholesale_store'],,,http://SIKANDARCASHANDCARRY.COM/,+19165253384,2,38.4863301,-121.4251391
+affa1217-e7e2-4024-a1af-cc9d09af6f3d,People Supermarket,7478 Stockton Blvd,supermarket,['grocery_store' 'bakery'],,,www.superpages.com/bp/sacramento-ca/people-supermarket-L0508910860.htm,+19166885515,2,38.4857535,-121.4249504
+ba75afc5-8a32-4405-b11a-8f219365123a,Seafood City,6051 Mack Rd,supermarket,['grocery_store' 'seafood_restaurant'],,,http://www.seafoodcity.com/,+19163938900,2,38.4758809,-121.4310413
+f7e426de-c645-4a0a-854b-6c0f718322fa,Muhammads Meats Vegetables and Desserts,,grocery_store,['desserts' 'southern_restaurant'],,,http://www.muhammadsmeatsanddesserts.com/,+19167102125,2,38.4755882,-121.4327957
+3d7dc8ef-1b6e-4864-8968-ecebdceb00c9,Golden Star Market,4506 Brookfield Dr,grocery_store,['farmers_market' 'lottery_ticket'],,,,+19164246162,2,38.482147,-121.45218
+2862939f-f7eb-4ca5-820f-f35437ba3836,B & S Oriental Market,4506 Brookfield Dr,grocery_store,['automotive' 'supermarket'],,,,+19164296619,2,38.482147,-121.45218
+b5902d4f-5d7c-408e-8a32-56756bcc8c6a,Red Star International,4760 Florin Rd,grocery_store,['supermarket'],,,http://www.redstargroceries.com,+19163914290,2,38.4953234,-121.4501035
+3c9c4e0d-537f-47f5-81c3-1fa22dd33289,99 Ranch Market,4220 Florin Rd,grocery_store,['supermarket' 'shopping'],,,http://www.99ranch.com/,+19164298899,2,38.4946889,-121.4569341
+160a92f6-fb85-4dc1-af26-273ccd04be23,Fiji India Foods,7298 Franklin Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,,+19168983825,2,38.4926192,-121.4580653
+b253f143-0855-45e1-ab4a-8e38204734ef,FoodMaxx,3860 Florin Rd,grocery_store,['supermarket'],FoodMaxx,,https://foodmaxx.com/,+19164274240,2,38.4950802,-121.4610594
+98a777cd-33f1-4f51-b587-17813bbb4731,Punjab International Krispy Krunchy,2338 Florin Rd,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.punjabinternational.com,+19163928762,2,38.4949622,-121.4846969
+61b781f9-2cbe-4a07-9b97-7a496289e89f,Moos Pheeb Market,2300 Florin Rd,supermarket,['grocery_store' 'shopping'],,,,+19163934132,2,38.4955373,-121.485108
+d6e8cdb8-8e06-4c7c-b55a-121deab1e3ee,Nile Variety Mart- Ethiopian & East African Grocery,1399 Florin Rd,grocery_store,['supermarket' 'shopping'],,,,+14084316415,2,38.4958937,-121.5043644
+4be50c7d-78f8-4664-b732-bbafc68ef7ec,Walmart Sacramento California Delta Shores,8720 Delta Shires Circle,grocery_store,['department_store' 'superstore'],,,walmart.com,,2,38.459918,-121.4929768
+a4037e53-5d33-41b1-8670-e96f3305b32b,Freeport Market,8101 Freeport Blvd,grocery_store,['hunting_and_fishing_supplies' 'seafood_restaurant'],,,http://reggiestackleshack.com/,+19166651218,2,38.4617857,-121.5017958
+1301ad04-92c2-4ade-83d3-975c6042efbd,Afrikico International Market,7230 S Land Park Dr,grocery_store,['supermarket' 'eat_and_drink'],,,http://www.afrikicointernationalmarket.com/,+19169563782,2,38.4944978,-121.5121606
+bae3557c-597c-4cbc-b07f-21957b315e15,Nugget Markets,1040 Florin Rd,grocery_store,['supermarket' 'specialty_grocery_store'],Nugget Markets,,https://www.nuggetmarket.com/,+19163952875,2,38.4945967,-121.5208059
+8736f84d-b422-441e-9b23-bed5c765f0ed,Raley's Supermarkets,7465 Rush River Dr,supermarket,['grocery_store' 'pharmacy'],,,https://www.raleys.com/www/,+19163999091,2,38.486521,-121.535272
+a9224e06-883f-46eb-9463-b4c28ebff0a7,Holland Market,52945 Netherlands Ave,supermarket,['grocery_store' 'health_food_store'],,,https://holland-market-ca.hub.biz/,+19167441510,2,38.4164807,-121.5259611
+db259d42-13f6-401f-93a2-78c47df8cbd2,Delta Bait Imperial Crawfish,10749 River Rd,grocery_store,['supermarket'],,,,+19164949069,2,38.368689,-121.5192096
+ad35464b-fc4b-48c0-b425-2aa8c0664481,Raley's,4900 Elk Grove Blvd,grocery_store,['supermarket' 'eat_and_drink'],,,https://www.raleys.com/store/443,+19166830700,2,38.4073823,-121.448494
+2fb476e2-0dff-471d-ac49-0952e8f0c01c,Rumi's Oasis,9688 Bruceville Rd,grocery_store,['supermarket' 'mediterranean_restaurant'],,,https://halalmarketelkgrove.com/,+19168292245,2,38.4057188,-121.4195866
+d6a3ef72-386c-48fb-8972-9971d1e8c8bb,Trader Joe's,9670 Bruceville Rd,grocery_store,['supermarket' 'shopping'],Trader Joe's,,https://locations.traderjoes.com/ca/elk-grove/190/,+19166869980,2,38.406604,-121.4205335
+dd4b0a8c-3d4e-476e-bef1-7910038288c2,Yulicious  Gourmet,9630 Bruceville Rd,grocery_store,['candy_store' 'delicatessen'],,,http://www.yuliciousgourmet.com/,+19165082528,2,38.408083,-121.420404
+a33edbee-80b0-41ba-a217-4dc02f182a25,Naan-Boy Halal Market,9632 Emerald Oak Dr,grocery_store,['restaurant' 'bakery'],,,https://naan-boy-market.business.site,+19166859696,2,38.408022,-121.3795767
+c7cbeedc-034f-4eee-a8e2-6acea588abe3,Schwans Sales,9919 Kent St,grocery_store,['doctor' 'food_beverage_service_distribution'],,,http://www.mailandmoreeg.com,+19166861011,2,38.398573,-121.354382
+41941cda-5f92-4fe4-8d33-b16a6a80c886,Davis Ranch,13501 Jackson Rd,grocery_store,['specialty_grocery_store' 'restaurant'],,,http://www.davisranchproduce.com,+19166822658,2,38.49379,-121.16015
+40a3221b-0cf9-460b-a62a-885471cf81a8,Bel Air,7315 Murieta Drive,supermarket,['superstore'],Bel Air,Q112922067,https://www.raleys.com/store/530,,2,38.49175,-121.09966
+f4e75ffe-2933-4092-be89-16c0a5b6a967,Toledo John & Son Dairy,26222 N Elliott Rd,grocery_store,['butcher_shop' 'meat_wholesaler'],,,,+12093331877,2,38.226672,-121.171073
+c7c5b836-e858-442d-87c5-950cd75d8790,R & G Schatz Farms,18247 N Tretheway Rd,grocery_store,['wholesale_grocer' 'supermarket'],,,http://peltierstation.com,+12093674881,2,38.1487123,-121.1831929
+c3e05aeb-5b74-4fdb-b943-e8605c9bd2f9,Young's Payless  IGA #1,18980 Hwy 88,supermarket,['superstore'],IGA,Q3146662,https://www.youngspaylessiga.com/,,2,38.15595,-121.15375
+3e88911b-ecc7-4b43-b87f-df150b27a88b,Clement Ridge Produce,23363 CA-88,grocery_store,['specialty_grocery_store' 'bakery'],,,http://www.clementsridge.net,+19168210057,2,38.199702,-121.068821
+1f425622-75a7-40e7-b501-43b1599ace90,Linden Nut Co.,8040 Demartini Ln,grocery_store,['health_food_store' 'food_beverage_service_distribution'],,,http://www.lindennut.com,+12098873731,2,38.0523393,-121.0555285
+7c0ff2cf-5056-4a0b-87e3-234065a51858,Asia Mart,3008 E Hammer Ln,grocery_store,['supermarket' 'asian_restaurant'],,,,+12092278640,2,38.020601,-121.277328
+161b8074-a7a2-4b8f-b486-619f4ba889e1,Morada Market,4416 Hildreth Ln,supermarket,['grocery_store' 'liquor_store'],,,https://morada-market.hub.biz/,+12094510324,2,38.0311425,-121.2577228
+c4e9432c-ff98-430c-8307-ec44c48e92c8,Raley's,4255 East Morada Lane,supermarket,['superstore'],Raley's,Q7286970,https://www.raleys.com/store/306,,2,38.03711,-121.261393
+8b7d25cb-2630-46c9-8c8e-dfa1af55cf60,Bruno Pepper,11291 N Ham Ln,grocery_store,['specialty_grocery_store' 'eat_and_drink'],,,http://www.brunosmarketplace.com/,+12094770066,2,38.065975,-121.287721
+05ce20cb-7fd8-4e4d-b6f7-a577d13180a5,Sprouts Farmers Market,250 E Harney Ln,grocery_store,['supermarket' 'health_food_store'],Sprouts Farmers Market,,https://www.sprouts.com/store/ca/lodi/lodi/,+12093716656,2,38.1001165,-121.2684109
+5fa8295d-4b2d-4b0a-aff6-0fd2c38e0aef,Sprouts Farmers Market,250 E. Harney Ln.,supermarket,['superstore'],Sprouts Farmers Market,Q7581369,https://www.sprouts.com/store/ca/lodi/lodi/,,2,38.099833,-121.268337
+4fb41e9e-7c95-4c5b-b0e0-973afe11426b,Holland Imports,5214 E Armstrong Rd,grocery_store,['flowers_and_gifts_shop' 'supermarket'],,,,+12093342293,2,38.0866638,-121.2517355
+71416c76-1290-46f8-ba99-e6b3f4f7ef70,Corto Olive,10201 Live Oak Rd,grocery_store,['restaurant'],,,http://www.corto-olive.com/,+18888320051,2,38.086349,-121.18757
+a3fc083c-c2e0-4603-803f-510201131e25,Victor Market & Deli,9035 E Highway 12,grocery_store,['supermarket' 'delicatessen'],,,,+12093399455,2,38.1377301,-121.205662
+3ac71029-7cdf-4352-a1cd-423311b0dd92,FoodMaxx,610 W Kettleman Ln,grocery_store,['supermarket' 'eat_and_drink'],FoodMaxx,,https://foodmaxx.com/,+12093346853,2,38.1141222,-121.2812244
+7a6a1363-b836-4810-b02b-34097c182c87,Specialty Commodities,1230 S Fairmont Ave,grocery_store,['eat_and_drink' 'restaurant'],,,http://specialtycommodities.com,+12093342081,2,38.117854,-121.285518
+6c97b41d-244d-402d-bb2d-be4f38e5c3bc,Save Mart,530 W Lodi Ave,supermarket,['grocery_store' 'shopping'],Save Mart,,https://www.savemart.com/,+12093397170,2,38.1292596,-121.2810366
+80743411-6fea-4643-b30a-778ec4486cfc,Arteagas Food Center,200 E Oak St,supermarket,['grocery_store' 'liquor_store'],,,http://arteagasfoodcenter.com,+12093390399,2,38.1326712,-121.2692923
+a1f87e88-5a8c-40e6-b345-c433ea0b4801,E and L Market,844 S Central Ave,grocery_store,['supermarket' 'eat_and_drink'],,,https://e-l-market-ca.hub.biz,+12093685429,2,38.1233276,-121.2650295
+4adff38b-7183-4565-ab38-931f9eb5626f,Dos Hermanos Market,603 S Central Ave,supermarket,['grocery_store' 'bakery'],,,https://www.groupon.com/biz/lodi-ca/dos-hermanos-market,+12093394958,2,38.127726,-121.2653649
+81e8ca3c-f936-4928-8b7d-79f0adbbc390,Sweetener Products,1150 Thurman St,grocery_store,['supermarket' 'automotive_parts_and_accessories'],,,http://www.sweetenerproducts.com,+12093343331,2,38.12819,-121.253024
+19aca18d-323f-4aca-8f39-6fb19b99b89e,Grocery Outlet,520 S Cherokee Ln,grocery_store,['discount_store' 'supermarket'],Grocery Outlet,,https://www.groceryoutlet.com/circulars/storeid/347?utm_source=fb&utm_medium=yext,+12096258320,2,38.1289191,-121.2585529
+69f0f697-d2e2-40ca-9731-292d0508f123,Lodi Halal Meat,450 S Cherokee Ln,grocery_store,['butcher_shop' 'supermarket'],,,http://lodi-halal-meat.edan.io,+12093686328,2,38.1294108,-121.2586915
+0ebe6754-5fbb-4386-bcae-ad3f31756a38,El Lucero Market,2 N Cherokee Ln,grocery_store,['mexican_restaurant' 'bakery'],,,http://elluceromarket.com/,+12093333721,2,38.1342035,-121.260506
+f9335e8c-710c-45c3-a1bd-138cc137c1bb,Buy 4 Less,401 W Lockeford St,grocery_store,['supermarket' 'shopping'],,,http://www.buy4lesslodi.com/,+12093683614,2,38.1381975,-121.277789
+32597243-3c78-4faa-892d-2b9c598c390c,Safeway,2449 W Kettleman Ln,grocery_store,['supermarket'],Safeway,,https://local.safeway.com/safeway/ca/lodi/2449-w-kettleman-ln.html,+12093677875,2,38.1174872,-121.3058131
+53371837-8c81-49e3-a860-8860b4b90b3b,Food 4 Less,2430 W Kettleman Ln,grocery_store,['supermarket' 'health_food_store'],Food 4 Less,,www.food4less.com,+12093661053,2,38.114064,-121.3058007
+ddcc8b1d-3263-4b9a-b202-f365b7ffee96,New Lodi Walmart,1601 S Lower Sacramento Rd,supermarket,['grocery_store' 'shopping'],,,www.walmart.com,+12093686696,2,38.1129823,-121.3100191
+fa0e93a1-0015-4175-b103-3cf13fb6e57d,Walmart Lodi,1601 S Lower Sacramento Rd,supermarket,['shopping' 'superstore'],Walmart,,https://www.walmart.com/store/1789,+12093686696,2,38.1130163,-121.3096152
+0471e8f6-0496-4d1f-80a6-2126eaf6c62b,Port City Wine,2000 W Kettleman Ln,grocery_store,['liquor_store' 'naturopathic_holistic'],,,http://www.PortCityWine.com/,+12093653820,2,38.115188,-121.297258
+3a9e053e-3ecf-4a82-af8c-55bd8a0132a9,Food Source,2323 W Hammer Ln,supermarket,['grocery_store' 'butcher_shop'],,,https://www.raleys.com/www/,+12099551475,2,38.0220715,-121.3437819
+3b938494-a75c-4772-9e87-cd27a561a1a2,Lion Supermarket,7924 N El Dorado St,supermarket,['grocery_store' 'shopping'],,,https://lions-supermarket.hub.biz,+12099579378,2,38.0217035,-121.3139475
+4206f072-959e-435c-879e-b2ae1b9333e2,Bayon Market,8024 N El Dorado St,grocery_store,['shopping' 'supermarket'],,,,+12099541279,2,38.022356,-121.315227
+6ddf2e3c-9c27-43eb-88f6-77721f95c35c,Super King Food Center,8626 Lower Sacramento Rd,grocery_store,['supermarket' 'eat_and_drink'],Super King Markets,,http://www.superkingfoods.com/,+12094746699,2,38.0288517,-121.3218538
+25ef3834-5bc0-4fe2-9af4-849792a18f5f,A J Market,8118 West Ln,grocery_store,['supermarket' 'eat_and_drink'],,,,+12094780422,2,38.0235751,-121.294094
+b8d7cbd8-f33f-462c-a04c-6fba355f59bf,Shun Fat Supermarket,8004 West Ln,supermarket,['grocery_store' 'asian_restaurant'],,,http://www.shunfatsupermarket.com/sf-supermarket.html,+12094789988,2,38.0227439,-121.2932986
+67b7b31a-51a0-4bbc-a879-f1ddfcbe5791,SHINKA Halal Meat & Grocery,1213 E Hammer Ln,grocery_store,['butcher_shop' 'supermarket'],,,http://halalmeatgrocery.com,+12099566856,2,38.021541,-121.2971431
+e801f22d-ebaa-48fa-b3e1-36a655b98366,El Rancho Grande Market,24 Main St,grocery_store,['supermarket' 'bakery'],,,http://elranchograndemarket1.placeweb.site,+19167775866,2,38.1623328,-121.6063544
+87837abe-28e0-4e82-a9ab-5da6d4f48e66,Valley Food Market,2401 W Turner Rd,supermarket,['grocery_store' 'eat_and_drink'],,,,+12094007758,2,38.1461105,-121.3061849
+a3cc74e5-ce32-4789-b2f4-0a46337b2170,Circle H Market,26210 N Thornton Rd,supermarket,['grocery_store' 'eat_and_drink'],,,https://circle-h-market.hub.biz,+12097948038,2,38.2248365,-121.4228357
+c7fa1cdb-338e-4f2d-871d-384053206822,Thornton Market,26310 N Thornton Rd,supermarket,['grocery_store' 'eat_and_drink'],,,http://www.thornbury.org/Farmers-Market,+12097940811,2,38.2258405,-121.4234435
+eebbbae5-8d83-41b4-acdd-3c3af3f02896,Save Mart,1059 C St,grocery_store,['supermarket' 'shopping'],Save Mart,,https://www.savemart.com/stores/41a5a348-dae0-4cd1-b3ec-7f7fdd46f5f1/GALT/72/GALT,+12097453471,2,38.2540912,-121.2977774
+ea8da4ae-37df-4b41-90ec-b16a8ecd0843,Amigos Market,229 S Lincoln Way,grocery_store,['shopping' 'health_food_store'],,,http://amigosmarket1.placeweb.site,+12097453535,2,38.2541188,-121.3006605
+590017fb-7261-4ada-9c30-56462e7cd8a4,Compadres Market,502 C St,grocery_store,['supermarket' 'shopping'],,,http://www.compadresmarket.powersites.net,+12097456690,2,38.2524671,-121.3040242
+f89f5dab-7a1c-4113-9ac9-6e278f51f0e3,Walmart Supercenter Galt,10470 Twin Cities Rd,supermarket,['superstore' 'grocery_store'],Walmart,,https://www.walmart.com/store/5231,+12097441938,2,38.2896277,-121.3046416
+9f30b25b-3bea-4561-8b60-e7dbc6130305,Central Market,14174 State Highway 160,supermarket,['grocery_store'],Central Market,,http://www.centralmarket.com,+19167761858,2,38.2422405,-121.5161225
+d1b0eba3-42d9-40fe-aa46-3b5b603f3d55,Big Store,14197 River Rd,grocery_store,['shopping' 'supermarket'],BIG STORE,,https://the-big-store.hub.biz/,+19167761451,2,38.2403983,-121.5155169

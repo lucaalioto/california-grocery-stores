@@ -1,7 +1,7 @@
 """
 01_fetch_overture.py
 Downloads all potential food retail locations in California from Overture Maps.
-Saves the full dataset to 03_output/ in multiple formats (Parquet, CSV, Stata).
+Saves the full dataset to 01_data/overture/ in multiple formats (Parquet, CSV, Stata).
 """
 
 import os
@@ -25,7 +25,7 @@ def main():
         project_root = os.path.abspath(os.path.join(os.getcwd(), ".."))
     # ==========================================================================
     
-    output_dir = os.path.join(project_root, "03_output")
+    output_dir = os.path.join(project_root, "01_data", "overture")
     
     os.makedirs(output_dir, exist_ok=True)
     

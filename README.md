@@ -17,13 +17,17 @@ The full list of values and the decision rules for each are in [CODEBOOK.md](COD
 
 ```
 california-grocery-stores/
-├── 01_data/
-│   └── SNAP Retailer Location data.csv   # USDA SNAP retailers (see Data below)
+├── 01_data/                              # Raw inputs, one folder per source (see Data below)
+│   ├── overture/                         # Overture Maps places
+│   ├── snap/                             # USDA SNAP retailers
+│   └── osm/                              # OpenStreetMap extract (.pbf is git-ignored)
 ├── 02_code/
-│   ├── 01_fetch_overture.py              # Fetches Overture Maps data for California
-│   ├── 02_create_sample.py               # Creates stratified sample for manual coding
-│   └── 03_high_confidence_grocery.py     # Filters to high-confidence grocery stores
-├── 03_output/                            # Generated datasets (see Data below)
+│   ├── 01_fetch_overture.py              # Overture food retail for California -> 01_data/overture/
+│   ├── 01b_fetch_snap.py                 # SNAP retailers for California -> 01_data/snap/
+│   ├── 01c_fetch_osm.py                  # OSM California extract -> 01_data/osm/
+│   ├── 02_create_sample.py               # Stratified sample for manual coding -> 03_output/
+│   └── 03_high_confidence_grocery.py     # High-confidence grocery subset -> 03_output/
+├── 03_output/                            # Datasets derived from 01_data
 ├── CODEBOOK.md                           # Coding instructions for classification
 ├── pyproject.toml                        # Project configuration
 ├── uv.lock                               # Pinned package versions
@@ -32,21 +36,22 @@ california-grocery-stores/
 
 ## Data
 
-### Overture Maps (`03_output/`)
+The project uses the same three sources as the ADU replication package, each in its own folder under `01_data/` with a README giving provenance, release or pull date, and coverage. All three are meant to be statewide (California).
 
-Built from the Overture Maps **places** theme.
+| Source | Folder | Statewide file | Status |
+|---|---|---|---|
+| Overture Maps places | `01_data/overture/` | `california_food_retail_full.*` (43,521 places, release `2025-12-17.0`) | In repo. Also holds a frozen copy of the 365 Sacramento stores the ADU paper used (release `2026-02-18.0`) |
+| USDA SNAP retailers | `01_data/snap/` | `snap_retailers_california_<date>.csv` | Run `01b_fetch_snap.py`. Only the Sacramento-region export used by the ADU paper is in the repo so far |
+| OpenStreetMap | `01_data/osm/` | `california-latest.osm.pbf` | Run `01c_fetch_osm.py`. About 1 GB, so it is git-ignored; only its metadata file is committed |
+
+Derived datasets in `03_output/`:
 
 | File | Script | Contents |
 |------|--------|----------|
-| `california_food_retail_full.{parquet,csv,dta}` | 01 | Every California place whose primary category is `grocery_store`, `supermarket`, `convenience_store`, or `specialty_food_store`, or whose alternate categories include `grocery_store`, `supermarket`, or `convenience_store` (43,521 locations) |
 | `california_manual_coding_sample.csv` | 02 | Stratified random sample of 200 locations (100 with a website, 100 without; seed 42) with blank coding columns |
-| `california_grocery_stores.{parquet,csv,dta}` | 03 | High-confidence subset: primary category `supermarket` or `grocery_store`, excluding anything also tagged `convenience_store`, `gas_station`, `petrol_station`, or `fuel_station`. Intended for use before manual coding is complete. Not included; run script 03 to create it (no download needed) |
+| `california_grocery_stores.{parquet,csv,dta}` | 03 | High-confidence subset: primary category `supermarket` or `grocery_store`, excluding anything also tagged `convenience_store`, `gas_station`, `petrol_station`, or `fuel_station`. Not included; run script 03 to create it |
 
-> **Release note:** The included files were built from Overture release **`2025-12-17.0`**. Overture only keeps its most recent releases online and deletes older ones, and that release is no longer available, so `01_fetch_overture.py` is now pinned to **`2026-09-23.1`**. Re-running script 01 (and then 02) will produce slightly different data and a different random sample. If the pinned release has also been removed, update `release` in `01_fetch_overture.py` to a current one ([release list](https://docs.overturemaps.org/release/latest/)).
-
-### SNAP retailers (`01_data/`)
-
-`SNAP Retailer Location data.csv` is an export from the [USDA FNS SNAP Retailer Locator](https://usda-fns.maps.arcgis.com/apps/webappviewer/index.html?id=15e1c457b56c4a729861d015cd626a23) (pulled April 2026). It covers the Sacramento region (Sacramento, Yolo, Placer, and Solano counties; 419 retailers) and was pre-filtered on the website to four store types: Farmers and Markets, Grocery Stores, Super Stores, and Supermarket. Specialty Store was excluded because it was mostly takeaway pizza outlets. It isn't used by the scripts here yet.
+> **Release note:** Overture only keeps its most recent releases online and deletes older ones. Neither `2025-12-17.0` nor `2026-02-18.0` can be downloaded again, so `01_fetch_overture.py` is pinned to **`2026-09-23.1`**. Re-running script 01 (and then 02) will produce different data and a different random sample. If the pinned release has also been removed, update `release` in `01_fetch_overture.py` to a current one ([release list](https://docs.overturemaps.org/release/latest/)).
 
 ## Setup
 
@@ -64,12 +69,19 @@ uv sync --group dev
 
 Run the scripts from the project root. They locate the project folder automatically. If you run them interactively (e.g. Jupyter), start from inside `02_code/`.
 
-### 1. Fetch Overture Maps Data
+### 1. Fetch the raw data
 
 Download food retail locations from Overture Maps for California (takes several minutes):
 
 ```bash
 uv run python 02_code/01_fetch_overture.py
+```
+
+Download California SNAP retailers and the California OpenStreetMap extract:
+
+```bash
+uv run python 02_code/01b_fetch_snap.py
+uv run python 02_code/01c_fetch_osm.py
 ```
 
 ### 2. Create Stratified Sample
