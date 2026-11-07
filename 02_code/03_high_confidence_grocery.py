@@ -6,7 +6,7 @@ Excludes convenience stores, gas stations, and ambiguous categories.
 This dataset is intended for use BEFORE manual coding is complete.
 It accepts Overture's classification at face value for 'supermarket' and 'grocery_store'.
 
-Input:  03_output/california_food_retail_full.parquet (from 01_fetch_overture.py)
+Input:  01_data/overture/california_food_retail_full.parquet (from 01_fetch_overture.py)
 Output: 03_output/california_grocery_stores.{parquet,csv,dta}
 """
 
@@ -31,7 +31,7 @@ def main():
     # ==========================================================================
 
     output_dir = os.path.join(project_root, "03_output")
-    input_file = os.path.join(output_dir, "california_food_retail_full.parquet")
+    input_file = os.path.join(project_root, "01_data", "overture", "california_food_retail_full.parquet")
 
     output_parquet = os.path.join(output_dir, "california_grocery_stores.parquet")
     output_csv = os.path.join(output_dir, "california_grocery_stores.csv")

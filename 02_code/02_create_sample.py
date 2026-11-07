@@ -23,7 +23,7 @@ def main():
         project_root = os.path.abspath(os.path.join(os.getcwd(), ".."))
     # ==========================================================================
     
-    input_file = os.path.join(project_root, "03_output", "california_food_retail_full.parquet")
+    input_file = os.path.join(project_root, "01_data", "overture", "california_food_retail_full.parquet")
     output_dir = os.path.join(project_root, "03_output")
     output_file = os.path.join(output_dir, "california_manual_coding_sample.csv")
     
